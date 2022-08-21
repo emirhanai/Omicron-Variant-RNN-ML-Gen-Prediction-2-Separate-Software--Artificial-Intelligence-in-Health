@@ -1,0 +1,944 @@
+UKHSA_region,specimen_date,n,percent,sgtf,total,conf_low,conf_high
+East Midlands,01/11/2021,874,100,Cases with confirmed S-gene,874,99.45445426,100
+East Midlands,02/11/2021,724,99.86,Cases with confirmed S-gene,725,99.10912023,99.99279956
+East Midlands,02/11/2021,1,0.14,Cases with confirmed SGTF,725,0.007200441,0.890879771
+East Midlands,03/11/2021,757,100,Cases with confirmed S-gene,757,99.37056652,100
+East Midlands,04/11/2021,598,100,Cases with confirmed S-gene,598,99.20428884,100
+East Midlands,05/11/2021,567,99.82,Cases with confirmed S-gene,568,98.86462153,99.99080915
+East Midlands,05/11/2021,1,0.18,Cases with confirmed SGTF,568,0.009190851,1.135378469
+East Midlands,06/11/2021,975,100,Cases with confirmed S-gene,975,99.51074296,100
+East Midlands,07/11/2021,907,100,Cases with confirmed S-gene,907,99.47421858,100
+East Midlands,08/11/2021,1578,99.75,Cases with confirmed S-gene,1582,99.30665901,99.91897278
+East Midlands,08/11/2021,4,0.25,Cases with confirmed SGTF,1582,0.081027222,0.693340992
+East Midlands,09/11/2021,1526,100,Cases with confirmed S-gene,1526,99.6869528,100
+East Midlands,10/11/2021,1524,99.74,Cases with confirmed S-gene,1528,99.28222997,99.91610814
+East Midlands,10/11/2021,4,0.26,Cases with confirmed SGTF,1528,0.083891865,0.717770034
+East Midlands,11/11/2021,1531,99.93,Cases with confirmed S-gene,1532,99.57716189,99.99659259
+East Midlands,11/11/2021,1,0.07,Cases with confirmed SGTF,1532,0.003407414,0.422838107
+East Midlands,12/11/2021,1663,99.94,Cases with confirmed S-gene,1664,99.61062272,99.99686289
+East Midlands,12/11/2021,1,0.06,Cases with confirmed SGTF,1664,0.003137108,0.389377283
+East Midlands,13/11/2021,1207,100,Cases with confirmed S-gene,1207,99.60448243,100
+East Midlands,14/11/2021,1233,99.84,Cases with confirmed S-gene,1235,99.34906939,99.97194503
+East Midlands,14/11/2021,2,0.16,Cases with confirmed SGTF,1235,0.02805497,0.65093061
+East Midlands,15/11/2021,2374,99.83,Cases with confirmed S-gene,2378,99.53829473,99.94610222
+East Midlands,15/11/2021,4,0.17,Cases with confirmed SGTF,2378,0.053897781,0.461705271
+East Midlands,16/11/2021,2031,100,Cases with confirmed S-gene,2031,99.76464216,100
+East Midlands,17/11/2021,2133,99.86,Cases with confirmed S-gene,2136,99.55335812,99.96371996
+East Midlands,17/11/2021,3,0.14,Cases with confirmed SGTF,2136,0.036280039,0.446641882
+East Midlands,18/11/2021,2027,99.9,Cases with confirmed S-gene,2029,99.60326261,99.98292483
+East Midlands,18/11/2021,2,0.1,Cases with confirmed SGTF,2029,0.017075166,0.396737391
+East Midlands,19/11/2021,2105,99.76,Cases with confirmed S-gene,2110,99.41353749,99.91272641
+East Midlands,19/11/2021,5,0.24,Cases with confirmed SGTF,2110,0.087273585,0.586462514
+East Midlands,20/11/2021,1958,100,Cases with confirmed S-gene,1958,99.7558847,100
+East Midlands,21/11/2021,2057,99.71,Cases with confirmed S-gene,2063,99.33392293,99.88171821
+East Midlands,21/11/2021,6,0.29,Cases with confirmed SGTF,2063,0.118281793,0.666077069
+East Midlands,22/11/2021,2772,99.96,Cases with confirmed S-gene,2773,99.76611795,99.99811753
+East Midlands,22/11/2021,1,0.04,Cases with confirmed SGTF,2773,0.001882472,0.233882049
+East Midlands,23/11/2021,2733,99.85,Cases with confirmed S-gene,2737,99.59875255,99.95317329
+East Midlands,23/11/2021,4,0.15,Cases with confirmed SGTF,2737,0.046826714,0.401247445
+East Midlands,24/11/2021,1895,99.79,Cases with confirmed S-gene,1899,99.4221176,99.93250289
+East Midlands,24/11/2021,4,0.21,Cases with confirmed SGTF,1899,0.067497111,0.577882404
+East Midlands,25/11/2021,2078,99.86,Cases with confirmed S-gene,2081,99.54157868,99.96276091
+East Midlands,25/11/2021,3,0.14,Cases with confirmed SGTF,2081,0.037239094,0.458421322
+East Midlands,26/11/2021,1292,99.54,Cases with confirmed S-gene,1298,98.94284987,99.81195606
+East Midlands,26/11/2021,6,0.46,Cases with confirmed SGTF,1298,0.188043944,1.057150129
+East Midlands,27/11/2021,1039,99.62,Cases with confirmed S-gene,1043,98.94993549,99.87707574
+East Midlands,27/11/2021,4,0.38,Cases with confirmed SGTF,1043,0.12292426,1.050064511
+East Midlands,28/11/2021,1140,99.74,Cases with confirmed S-gene,1143,99.16683217,99.93218982
+East Midlands,28/11/2021,3,0.26,Cases with confirmed SGTF,1143,0.067810185,0.833167831
+East Midlands,29/11/2021,1933,99.23,Cases with confirmed S-gene,1948,98.70159912,99.55215815
+East Midlands,29/11/2021,15,0.77,Cases with confirmed SGTF,1948,0.447841853,1.298400877
+East Midlands,30/11/2021,1637,99.45,Cases with confirmed S-gene,1646,98.92455697,99.73292395
+East Midlands,30/11/2021,9,0.55,Cases with confirmed SGTF,1646,0.26707605,1.075443033
+East Midlands,01/12/2021,1584,99.44,Cases with confirmed S-gene,1593,98.88889716,99.72403035
+East Midlands,01/12/2021,9,0.56,Cases with confirmed SGTF,1593,0.275969651,1.111102841
+East Midlands,02/12/2021,1215,98.3,Cases with confirmed S-gene,1236,97.36806636,98.91814034
+East Midlands,02/12/2021,21,1.7,Cases with confirmed SGTF,1236,1.081859665,2.631933644
+East Midlands,03/12/2021,1084,96.1,Cases with confirmed S-gene,1128,94.75386087,97.1196601
+East Midlands,03/12/2021,44,3.9,Cases with confirmed SGTF,1128,2.880339896,5.246139127
+East Midlands,04/12/2021,1891,98.75,Cases with confirmed S-gene,1915,98.11087558,99.17739091
+East Midlands,04/12/2021,24,1.25,Cases with confirmed SGTF,1915,0.822609089,1.889124421
+East Midlands,05/12/2021,1778,99.16,Cases with confirmed S-gene,1793,98.58973973,99.51339631
+East Midlands,05/12/2021,15,0.84,Cases with confirmed SGTF,1793,0.486603694,1.410260271
+East Midlands,06/12/2021,1384,96.18,Cases with confirmed S-gene,1439,95.01913039,97.08223418
+East Midlands,06/12/2021,55,3.82,Cases with confirmed SGTF,1439,2.917765823,4.980869605
+East Midlands,07/12/2021,2091,93.77,Cases with confirmed S-gene,2230,92.66213443,94.71761803
+East Midlands,07/12/2021,139,6.23,Cases with confirmed SGTF,2230,5.282381972,7.337865575
+East Midlands,08/12/2021,1361,92.96,Cases with confirmed S-gene,1464,91.50191705,94.19632813
+East Midlands,08/12/2021,103,7.04,Cases with confirmed SGTF,1464,5.80367187,8.498082954
+East Midlands,09/12/2021,2184,89.47,Cases with confirmed S-gene,2441,88.16983681,90.64709756
+East Midlands,09/12/2021,257,10.53,Cases with confirmed SGTF,2441,9.352902437,11.83016319
+East Midlands,10/12/2021,2148,85.65,Cases with confirmed S-gene,2508,84.19846413,86.98279086
+East Midlands,10/12/2021,360,14.35,Cases with confirmed SGTF,2508,13.01720914,15.80153587
+East Midlands,11/12/2021,1829,82.02,Cases with confirmed S-gene,2230,80.34620861,83.5779988
+East Midlands,11/12/2021,401,17.98,Cases with confirmed SGTF,2230,16.4220012,19.65379139
+East Midlands,12/12/2021,1074,73.11,Cases with confirmed S-gene,1469,70.75065096,75.34890615
+East Midlands,12/12/2021,395,26.89,Cases with confirmed SGTF,1469,24.65109385,29.24934904
+East Midlands,13/12/2021,2023,62.13,Cases with confirmed S-gene,3256,60.43650488,63.79753916
+East Midlands,13/12/2021,1233,37.87,Cases with confirmed SGTF,3256,36.20246084,39.56349512
+East Midlands,14/12/2021,1662,49.36,Cases with confirmed S-gene,3367,47.65957931,51.0647876
+East Midlands,14/12/2021,1705,50.64,Cases with confirmed SGTF,3367,48.9352124,52.34042069
+East Midlands,15/12/2021,1551,37.7,Cases with confirmed S-gene,4114,36.21968614,39.2045195
+East Midlands,15/12/2021,2563,62.3,Cases with confirmed SGTF,4114,60.7954805,63.78031386
+East Midlands,16/12/2021,1445,36.21,Cases with confirmed S-gene,3991,34.71694413,37.7227356
+East Midlands,16/12/2021,2546,63.79,Cases with confirmed SGTF,3991,62.2772644,65.28305587
+East Midlands,17/12/2021,1216,33.13,Cases with confirmed S-gene,3670,31.61555748,34.68705989
+East Midlands,17/12/2021,2454,66.87,Cases with confirmed SGTF,3670,65.31294011,68.38444252
+East Midlands,18/12/2021,1019,29.54,Cases with confirmed S-gene,3449,28.03132138,31.10421773
+East Midlands,18/12/2021,2430,70.46,Cases with confirmed SGTF,3449,68.89578227,71.96867862
+East Midlands,19/12/2021,961,26.02,Cases with confirmed S-gene,3694,24.61254367,27.46808494
+East Midlands,19/12/2021,2733,73.98,Cases with confirmed SGTF,3694,72.53191506,75.38745633
+East Midlands,20/12/2021,993,20.33,Cases with confirmed S-gene,4885,19.21250744,21.48961267
+East Midlands,20/12/2021,3892,79.67,Cases with confirmed SGTF,4885,78.51038733,80.78749256
+East Midlands,21/12/2021,825,14.57,Cases with confirmed S-gene,5664,13.66241253,15.51743684
+East Midlands,21/12/2021,4839,85.43,Cases with confirmed SGTF,5664,84.48256316,86.33758747
+East Midlands,22/12/2021,807,12.79,Cases with confirmed S-gene,6312,11.97626324,13.63978403
+East Midlands,22/12/2021,5505,87.21,Cases with confirmed SGTF,6312,86.36021597,88.02373676
+East Midlands,23/12/2021,792,12.12,Cases with confirmed S-gene,6537,11.33936821,12.93685976
+East Midlands,23/12/2021,5745,87.88,Cases with confirmed SGTF,6537,87.06314024,88.66063179
+East Midlands,24/12/2021,573,9.87,Cases with confirmed S-gene,5806,9.119963062,10.67190296
+East Midlands,24/12/2021,5233,90.13,Cases with confirmed SGTF,5806,89.32809704,90.88003694
+East Midlands,25/12/2021,98,8.19,Cases with confirmed S-gene,1196,6.732061489,9.930755526
+East Midlands,25/12/2021,1098,91.81,Cases with confirmed SGTF,1196,90.06924447,93.26793851
+East Midlands,26/12/2021,156,8.23,Cases with confirmed S-gene,1896,7.049277479,9.578934021
+East Midlands,26/12/2021,1740,91.77,Cases with confirmed SGTF,1896,90.42106598,92.95072252
+East Midlands,27/12/2021,506,6.52,Cases with confirmed S-gene,7761,5.985572415,7.097509939
+East Midlands,27/12/2021,7255,93.48,Cases with confirmed SGTF,7761,92.90249006,94.01442758
+East Midlands,28/12/2021,137,4.37,Cases with confirmed S-gene,3132,3.697386369,5.165284354
+East Midlands,28/12/2021,2995,95.63,Cases with confirmed SGTF,3132,94.83471565,96.30261363
+East of England,01/11/2021,1299,100,Cases with confirmed S-gene,1299,99.63241095,100
+East of England,02/11/2021,1173,99.83,Cases with confirmed S-gene,1175,99.31595025,99.97051217
+East of England,02/11/2021,2,0.17,Cases with confirmed SGTF,1175,0.029487829,0.684049747
+East of England,03/11/2021,1557,99.94,Cases with confirmed S-gene,1558,99.5841999,99.99664945
+East of England,03/11/2021,1,0.06,Cases with confirmed SGTF,1558,0.00335055,0.415800095
+East of England,04/11/2021,1102,99.82,Cases with confirmed S-gene,1104,99.27212675,99.96861539
+East of England,04/11/2021,2,0.18,Cases with confirmed SGTF,1104,0.03138461,0.727873253
+East of England,05/11/2021,1009,99.51,Cases with confirmed S-gene,1014,98.78262937,99.81832323
+East of England,05/11/2021,5,0.49,Cases with confirmed SGTF,1014,0.181676768,1.217370629
+East of England,06/11/2021,1096,100,Cases with confirmed S-gene,1096,99.56456691,100
+East of England,07/11/2021,1208,100,Cases with confirmed S-gene,1208,99.6048088,100
+East of England,08/11/2021,1877,100,Cases with confirmed S-gene,1877,99.74537191,100
+East of England,09/11/2021,2042,99.95,Cases with confirmed S-gene,2043,99.68271346,99.99744487
+East of England,09/11/2021,1,0.05,Cases with confirmed SGTF,2043,0.002555126,0.317286544
+East of England,10/11/2021,1945,99.9,Cases with confirmed S-gene,1947,99.58658999,99.98220562
+East of England,10/11/2021,2,0.1,Cases with confirmed SGTF,1947,0.017794385,0.413410006
+East of England,11/11/2021,2033,100,Cases with confirmed S-gene,2033,99.76487326,100
+East of England,12/11/2021,1820,100,Cases with confirmed S-gene,1820,99.73741428,100
+East of England,13/11/2021,1733,99.94,Cases with confirmed S-gene,1734,99.62630481,99.99698954
+East of England,13/11/2021,1,0.06,Cases with confirmed SGTF,1734,0.003010463,0.373695186
+East of England,14/11/2021,1677,100,Cases with confirmed S-gene,1677,99.71507498,100
+East of England,15/11/2021,3147,99.9,Cases with confirmed S-gene,3150,99.69693197,99.97540019
+East of England,15/11/2021,3,0.1,Cases with confirmed SGTF,3150,0.024599808,0.303068032
+East of England,16/11/2021,2062,100,Cases with confirmed S-gene,2062,99.76817387,100
+East of England,17/11/2021,2112,100,Cases with confirmed S-gene,2112,99.7736521,100
+East of England,18/11/2021,2148,99.95,Cases with confirmed S-gene,2149,99.6983342,99.99757091
+East of England,18/11/2021,1,0.05,Cases with confirmed SGTF,2149,0.002429091,0.301665803
+East of England,19/11/2021,1868,99.95,Cases with confirmed S-gene,1869,99.65323875,99.99720699
+East of England,19/11/2021,1,0.05,Cases with confirmed SGTF,1869,0.002793008,0.34676125
+East of England,20/11/2021,2154,99.95,Cases with confirmed S-gene,2155,99.69917252,99.99757767
+East of England,20/11/2021,1,0.05,Cases with confirmed SGTF,2155,0.002422328,0.300827477
+East of England,21/11/2021,2092,99.9,Cases with confirmed S-gene,2094,99.61555281,99.98345492
+East of England,21/11/2021,2,0.1,Cases with confirmed SGTF,2094,0.01654508,0.384447192
+East of England,22/11/2021,2378,99.79,Cases with confirmed S-gene,2383,99.48058881,99.92272785
+East of England,22/11/2021,5,0.21,Cases with confirmed SGTF,2383,0.077272152,0.519411192
+East of England,23/11/2021,2469,99.92,Cases with confirmed S-gene,2471,99.6741071,99.98597942
+East of England,23/11/2021,2,0.08,Cases with confirmed SGTF,2471,0.014020579,0.325892899
+East of England,24/11/2021,2248,99.91,Cases with confirmed S-gene,2250,99.64215754,99.98460216
+East of England,24/11/2021,2,0.09,Cases with confirmed SGTF,2250,0.015397844,0.357842456
+East of England,25/11/2021,2895,99.86,Cases with confirmed S-gene,2899,99.62113915,99.95579056
+East of England,25/11/2021,4,0.14,Cases with confirmed SGTF,2899,0.044209437,0.37886085
+East of England,26/11/2021,1955,99.74,Cases with confirmed S-gene,1960,99.36876451,99.90604468
+East of England,26/11/2021,5,0.26,Cases with confirmed SGTF,1960,0.09395532,0.63123549
+East of England,27/11/2021,1681,99.59,Cases with confirmed S-gene,1688,99.10686781,99.81816637
+East of England,27/11/2021,7,0.41,Cases with confirmed SGTF,1688,0.181833627,0.893132192
+East of England,28/11/2021,1724,99.71,Cases with confirmed S-gene,1729,99.2846623,99.89348633
+East of England,28/11/2021,5,0.29,Cases with confirmed SGTF,1729,0.106513668,0.715337699
+East of England,29/11/2021,2522,99.68,Cases with confirmed S-gene,2530,99.35118185,99.85289784
+East of England,29/11/2021,8,0.32,Cases with confirmed SGTF,2530,0.147102158,0.648818153
+East of England,30/11/2021,2461,99.56,Cases with confirmed S-gene,2472,99.17909182,99.76579457
+East of England,30/11/2021,11,0.44,Cases with confirmed SGTF,2472,0.234205431,0.820908185
+East of England,01/12/2021,2360,99.7,Cases with confirmed S-gene,2367,99.36252141,99.87035165
+East of England,01/12/2021,7,0.3,Cases with confirmed SGTF,2367,0.129648352,0.637478595
+East of England,02/12/2021,2120,99.11,Cases with confirmed S-gene,2139,98.58843207,99.44885417
+East of England,02/12/2021,19,0.89,Cases with confirmed SGTF,2139,0.551145829,1.411567927
+East of England,03/12/2021,2166,98.68,Cases with confirmed S-gene,2195,98.08229374,99.09727111
+East of England,03/12/2021,29,1.32,Cases with confirmed SGTF,2195,0.902728886,1.917706261
+East of England,04/12/2021,2568,98.62,Cases with confirmed S-gene,2604,98.06988018,99.01586038
+East of England,04/12/2021,36,1.38,Cases with confirmed SGTF,2604,0.984139623,1.930119822
+East of England,05/12/2021,2176,97.27,Cases with confirmed S-gene,2237,96.48794429,97.89091818
+East of England,05/12/2021,61,2.73,Cases with confirmed SGTF,2237,2.10908182,3.512055711
+East of England,06/12/2021,2638,95.2,Cases with confirmed S-gene,2771,94.32048009,95.95212118
+East of England,06/12/2021,133,4.8,Cases with confirmed SGTF,2771,4.047878822,5.679519908
+East of England,07/12/2021,2277,90.54,Cases with confirmed S-gene,2515,89.30927686,91.63849332
+East of England,07/12/2021,238,9.46,Cases with confirmed SGTF,2515,8.361506681,10.69072314
+East of England,08/12/2021,2434,86.84,Cases with confirmed S-gene,2803,85.51476913,88.05403617
+East of England,08/12/2021,369,13.16,Cases with confirmed SGTF,2803,11.94596383,14.48523087
+East of England,09/12/2021,2476,83.03,Cases with confirmed S-gene,2982,81.62473217,84.3522622
+East of England,09/12/2021,506,16.97,Cases with confirmed SGTF,2982,15.6477378,18.37526783
+East of England,10/12/2021,2962,79.65,Cases with confirmed S-gene,3719,78.3069896,80.9213278
+East of England,10/12/2021,757,20.35,Cases with confirmed SGTF,3719,19.0786722,21.6930104
+East of England,11/12/2021,2125,75.87,Cases with confirmed S-gene,2801,74.22815917,77.43171737
+East of England,11/12/2021,676,24.13,Cases with confirmed SGTF,2801,22.56828263,25.77184083
+East of England,12/12/2021,1740,64.68,Cases with confirmed S-gene,2690,62.83930652,66.48641331
+East of England,12/12/2021,950,35.32,Cases with confirmed SGTF,2690,33.51358669,37.16069348
+East of England,13/12/2021,1836,53.03,Cases with confirmed S-gene,3462,51.35355876,54.70551749
+East of England,13/12/2021,1626,46.97,Cases with confirmed SGTF,3462,45.29448251,48.64644124
+East of England,14/12/2021,1534,39.84,Cases with confirmed S-gene,3850,38.29566687,41.41306118
+East of England,14/12/2021,2316,60.16,Cases with confirmed SGTF,3850,58.58693882,61.70433313
+East of England,15/12/2021,1307,34.86,Cases with confirmed S-gene,3749,33.34023289,36.41628761
+East of England,15/12/2021,2442,65.14,Cases with confirmed SGTF,3749,63.58371239,66.65976711
+East of England,16/12/2021,1192,28.56,Cases with confirmed S-gene,4174,27.19586037,29.95939255
+East of England,16/12/2021,2982,71.44,Cases with confirmed SGTF,4174,70.04060745,72.80413963
+East of England,17/12/2021,961,25.35,Cases with confirmed S-gene,3791,23.97725022,26.77215542
+East of England,17/12/2021,2830,74.65,Cases with confirmed SGTF,3791,73.22784458,76.02274978
+East of England,18/12/2021,831,25.31,Cases with confirmed S-gene,3283,23.83942709,26.84329938
+East of England,18/12/2021,2452,74.69,Cases with confirmed SGTF,3283,73.15670062,76.16057291
+East of England,19/12/2021,735,19.92,Cases with confirmed S-gene,3690,18.6484277,21.25219492
+East of England,19/12/2021,2955,80.08,Cases with confirmed SGTF,3690,78.74780508,81.3515723
+East of England,20/12/2021,684,17.3,Cases with confirmed S-gene,3953,16.14369028,18.52710448
+East of England,20/12/2021,3269,82.7,Cases with confirmed SGTF,3953,81.47289552,83.85630972
+East of England,21/12/2021,714,13.52,Cases with confirmed S-gene,5281,12.61521991,14.4786905
+East of England,21/12/2021,4567,86.48,Cases with confirmed SGTF,5281,85.5213095,87.38478009
+East of England,22/12/2021,627,10.81,Cases with confirmed S-gene,5799,10.03041013,11.64645144
+East of England,22/12/2021,5172,89.19,Cases with confirmed SGTF,5799,88.35354856,89.96958987
+East of England,23/12/2021,470,9.19,Cases with confirmed S-gene,5115,8.417974062,10.02135719
+East of England,23/12/2021,4645,90.81,Cases with confirmed SGTF,5115,89.97864281,91.58202594
+East of England,24/12/2021,472,9.05,Cases with confirmed S-gene,5216,8.291164719,9.86801044
+East of England,24/12/2021,4744,90.95,Cases with confirmed SGTF,5216,90.13198956,91.70883528
+East of England,25/12/2021,260,8.23,Cases with confirmed S-gene,3160,7.304756179,9.254049355
+East of England,25/12/2021,2900,91.77,Cases with confirmed SGTF,3160,90.74595065,92.69524382
+East of England,26/12/2021,341,7.26,Cases with confirmed S-gene,4696,6.543564509,8.050299938
+East of England,26/12/2021,4355,92.74,Cases with confirmed SGTF,4696,91.94970006,93.45643549
+East of England,27/12/2021,296,6.2,Cases with confirmed S-gene,4774,5.540820816,6.931189709
+East of England,27/12/2021,4478,93.8,Cases with confirmed SGTF,4774,93.06881029,94.45917918
+East of England,28/12/2021,173,3.79,Cases with confirmed S-gene,4562,3.265490853,4.39818867
+East of England,28/12/2021,4389,96.21,Cases with confirmed SGTF,4562,95.60181133,96.73450915
+London,01/11/2021,1056,99.91,Cases with confirmed S-gene,1057,99.38787173,99.99506128
+London,01/11/2021,1,0.09,Cases with confirmed SGTF,1057,0.004938717,0.612128269
+London,02/11/2021,1061,99.81,Cases with confirmed S-gene,1063,99.24416449,99.96740464
+London,02/11/2021,2,0.19,Cases with confirmed SGTF,1063,0.032595364,0.755835506
+London,03/11/2021,1275,99.84,Cases with confirmed S-gene,1277,99.37040717,99.9728679
+London,03/11/2021,2,0.16,Cases with confirmed SGTF,1277,0.027132098,0.629592832
+London,04/11/2021,960,99.9,Cases with confirmed S-gene,961,99.32697984,99.9945679
+London,04/11/2021,1,0.1,Cases with confirmed SGTF,961,0.005432096,0.673020161
+London,05/11/2021,950,99.89,Cases with confirmed S-gene,951,99.31993295,99.99451078
+London,05/11/2021,1,0.11,Cases with confirmed SGTF,951,0.005489219,0.680067051
+London,06/11/2021,635,99.69,Cases with confirmed S-gene,637,98.74204569,99.94559875
+London,06/11/2021,2,0.31,Cases with confirmed SGTF,637,0.054401246,1.257954308
+London,07/11/2021,593,100,Cases with confirmed S-gene,593,99.19762331,100
+London,08/11/2021,1308,99.62,Cases with confirmed S-gene,1313,99.05884436,99.85971955
+London,08/11/2021,5,0.38,Cases with confirmed SGTF,1313,0.140280452,0.941155638
+London,09/11/2021,1463,99.86,Cases with confirmed S-gene,1465,99.45096749,99.97635022
+London,09/11/2021,2,0.14,Cases with confirmed SGTF,1465,0.023649785,0.549032509
+London,10/11/2021,1167,100,Cases with confirmed S-gene,1167,99.59097067,100
+London,11/11/2021,1151,99.91,Cases with confirmed S-gene,1152,99.4381738,99.99546857
+London,11/11/2021,1,0.09,Cases with confirmed SGTF,1152,0.004531429,0.561826203
+London,12/11/2021,1022,99.8,Cases with confirmed S-gene,1024,99.21549687,99.96616295
+London,12/11/2021,2,0.2,Cases with confirmed SGTF,1024,0.033837051,0.784503135
+London,13/11/2021,1119,99.82,Cases with confirmed S-gene,1121,99.28312325,99.96909143
+London,13/11/2021,2,0.18,Cases with confirmed SGTF,1121,0.030908569,0.716876753
+London,14/11/2021,679,99.85,Cases with confirmed S-gene,680,99.0505149,99.99232303
+London,14/11/2021,1,0.15,Cases with confirmed SGTF,680,0.00767697,0.949485095
+London,15/11/2021,1660,99.82,Cases with confirmed S-gene,1663,99.42665989,99.95339845
+London,15/11/2021,3,0.18,Cases with confirmed SGTF,1663,0.046601551,0.573340113
+London,16/11/2021,1652,99.7,Cases with confirmed S-gene,1657,99.253669,99.88885594
+London,16/11/2021,5,0.3,Cases with confirmed SGTF,1657,0.111144062,0.746331002
+London,17/11/2021,1667,99.82,Cases with confirmed S-gene,1670,99.42905674,99.95359383
+London,17/11/2021,3,0.18,Cases with confirmed SGTF,1670,0.046406167,0.570943263
+London,18/11/2021,1924,99.79,Cases with confirmed S-gene,1928,99.43078904,99.93351846
+London,18/11/2021,4,0.21,Cases with confirmed SGTF,1928,0.06648154,0.569210959
+London,19/11/2021,1391,99.71,Cases with confirmed S-gene,1395,99.21402327,99.90810643
+London,19/11/2021,4,0.29,Cases with confirmed SGTF,1395,0.091893571,0.785976733
+London,20/11/2021,1357,99.93,Cases with confirmed S-gene,1358,99.52314527,99.99615598
+London,20/11/2021,1,0.07,Cases with confirmed SGTF,1358,0.003844019,0.476854725
+London,21/11/2021,1365,100,Cases with confirmed S-gene,1365,99.65013405,100
+London,22/11/2021,1757,99.72,Cases with confirmed S-gene,1762,99.29802335,99.89548207
+London,22/11/2021,5,0.28,Cases with confirmed SGTF,1762,0.104517929,0.70197665
+London,23/11/2021,1692,99.88,Cases with confirmed S-gene,1694,99.52500152,99.97954767
+London,23/11/2021,2,0.12,Cases with confirmed SGTF,1694,0.020452327,0.474998479
+London,24/11/2021,1579,99.68,Cases with confirmed S-gene,1584,99.21937736,99.88373127
+London,24/11/2021,5,0.32,Cases with confirmed SGTF,1584,0.116268732,0.780622636
+London,25/11/2021,1805,99.83,Cases with confirmed S-gene,1808,99.47252863,99.9571367
+London,25/11/2021,3,0.17,Cases with confirmed SGTF,1808,0.042863303,0.527471374
+London,26/11/2021,1598,99.38,Cases with confirmed S-gene,1608,98.81899369,99.68366942
+London,26/11/2021,10,0.62,Cases with confirmed SGTF,1608,0.31633058,1.181006314
+London,27/11/2021,1441,99.17,Cases with confirmed S-gene,1453,98.5185254,99.55194025
+London,27/11/2021,12,0.83,Cases with confirmed SGTF,1453,0.448059747,1.481474601
+London,28/11/2021,1098,99.19,Cases with confirmed S-gene,1107,98.4034635,99.60271913
+London,28/11/2021,9,0.81,Cases with confirmed SGTF,1107,0.39728087,1.596536503
+London,29/11/2021,2267,99.21,Cases with confirmed S-gene,2285,98.73151731,99.51808518
+London,29/11/2021,18,0.79,Cases with confirmed SGTF,2285,0.481914816,1.26848269
+London,30/11/2021,1759,98.65,Cases with confirmed S-gene,1783,97.97157344,99.1163838
+London,30/11/2021,24,1.35,Cases with confirmed SGTF,1783,0.883616205,2.028426559
+London,01/12/2021,1708,98.44,Cases with confirmed S-gene,1735,97.71132569,98.95183225
+London,01/12/2021,27,1.56,Cases with confirmed SGTF,1735,1.048167747,2.288674308
+London,02/12/2021,1617,97.82,Cases with confirmed S-gene,1653,96.96489269,98.44822925
+London,02/12/2021,36,2.18,Cases with confirmed SGTF,1653,1.551770755,3.035107312
+London,03/12/2021,1558,96.95,Cases with confirmed S-gene,1607,95.95668076,97.71286121
+London,03/12/2021,49,3.05,Cases with confirmed SGTF,1607,2.287138786,4.043319238
+London,04/12/2021,1889,94.36,Cases with confirmed S-gene,2002,93.23018811,95.30702783
+London,04/12/2021,113,5.64,Cases with confirmed SGTF,2002,4.692972171,6.769811889
+London,05/12/2021,1402,89.7,Cases with confirmed S-gene,1563,88.05975864,91.14005188
+London,05/12/2021,161,10.3,Cases with confirmed SGTF,1563,8.859948123,11.94024136
+London,06/12/2021,2307,86.6,Cases with confirmed S-gene,2664,85.23313888,87.85813346
+London,06/12/2021,357,13.4,Cases with confirmed SGTF,2664,12.14186654,14.76686112
+London,07/12/2021,2059,75.78,Cases with confirmed S-gene,2717,74.11679719,77.37379547
+London,07/12/2021,658,24.22,Cases with confirmed SGTF,2717,22.62620453,25.88320281
+London,08/12/2021,2008,65.13,Cases with confirmed S-gene,3083,63.41491209,66.80979534
+London,08/12/2021,1075,34.87,Cases with confirmed SGTF,3083,33.19020466,36.58508791
+London,09/12/2021,2290,59.85,Cases with confirmed S-gene,3826,58.27809941,61.4092334
+London,09/12/2021,1536,40.15,Cases with confirmed SGTF,3826,38.5907666,41.72190059
+London,10/12/2021,2566,55.51,Cases with confirmed S-gene,4623,54.05771602,56.9432403
+London,10/12/2021,2057,44.49,Cases with confirmed SGTF,4623,43.0567597,45.94228398
+London,11/12/2021,943,48.38,Cases with confirmed S-gene,1949,46.1449486,50.62905651
+London,11/12/2021,1006,51.62,Cases with confirmed SGTF,1949,49.37094349,53.8550514
+London,12/12/2021,1450,40.45,Cases with confirmed S-gene,3585,38.83695317,42.07628473
+London,12/12/2021,2135,59.55,Cases with confirmed SGTF,3585,57.92371527,61.16304683
+London,13/12/2021,1683,27.75,Cases with confirmed S-gene,6064,26.63313655,28.90315227
+London,13/12/2021,4381,72.25,Cases with confirmed SGTF,6064,71.09684773,73.36686345
+London,14/12/2021,1723,20.15,Cases with confirmed S-gene,8550,19.30951405,21.02157278
+London,14/12/2021,6827,79.85,Cases with confirmed SGTF,8550,78.97842722,80.69048595
+London,15/12/2021,1450,16.12,Cases with confirmed S-gene,8995,15.3691974,16.90007309
+London,15/12/2021,7545,83.88,Cases with confirmed SGTF,8995,83.09992691,84.6308026
+London,16/12/2021,1464,14.05,Cases with confirmed S-gene,10422,13.38863552,14.73246461
+London,16/12/2021,8958,85.95,Cases with confirmed SGTF,10422,85.26753539,86.61136448
+London,17/12/2021,1070,12.96,Cases with confirmed S-gene,8259,12.24260132,13.7032582
+London,17/12/2021,7189,87.04,Cases with confirmed SGTF,8259,86.2967418,87.75739868
+London,18/12/2021,958,11.5,Cases with confirmed S-gene,8332,10.82471861,12.20675781
+London,18/12/2021,7374,88.5,Cases with confirmed SGTF,8332,87.79324219,89.17528139
+London,19/12/2021,671,10.61,Cases with confirmed S-gene,6327,9.862755766,11.39623434
+London,19/12/2021,5656,89.39,Cases with confirmed SGTF,6327,88.60376566,90.13724423
+London,20/12/2021,1023,9.68,Cases with confirmed S-gene,10571,9.123777675,10.26060225
+London,20/12/2021,9548,90.32,Cases with confirmed SGTF,10571,89.73939775,90.87622233
+London,21/12/2021,1034,7.99,Cases with confirmed S-gene,12939,7.532734565,8.475096064
+London,21/12/2021,11905,92.01,Cases with confirmed SGTF,12939,91.52490394,92.46726544
+London,22/12/2021,830,6.62,Cases with confirmed S-gene,12532,6.196936198,7.07598197
+London,22/12/2021,11702,93.38,Cases with confirmed SGTF,12532,92.92401803,93.8030638
+London,23/12/2021,663,5.98,Cases with confirmed S-gene,11083,5.551323109,6.443761267
+London,23/12/2021,10420,94.02,Cases with confirmed SGTF,11083,93.55623873,94.44867689
+London,24/12/2021,358,4.89,Cases with confirmed S-gene,7316,4.415780771,5.418985557
+London,24/12/2021,6958,95.11,Cases with confirmed SGTF,7316,94.58101444,95.58421923
+London,25/12/2021,106,3.92,Cases with confirmed S-gene,2701,3.23838355,4.744728592
+London,25/12/2021,2595,96.08,Cases with confirmed SGTF,2701,95.25527141,96.76161645
+London,26/12/2021,255,3.82,Cases with confirmed S-gene,6673,3.380269969,4.316470215
+London,26/12/2021,6418,96.18,Cases with confirmed SGTF,6673,95.68352978,96.61973003
+London,27/12/2021,294,4.18,Cases with confirmed S-gene,7028,3.732954924,4.684397405
+London,27/12/2021,6734,95.82,Cases with confirmed SGTF,7028,95.31560259,96.26704508
+London,28/12/2021,206,3.57,Cases with confirmed S-gene,5774,3.111228663,4.087062866
+London,28/12/2021,5568,96.43,Cases with confirmed SGTF,5774,95.91293713,96.88877134
+North East,01/11/2021,1701,99.94,Cases with confirmed S-gene,1702,99.61929553,99.99693294
+North East,01/11/2021,1,0.06,Cases with confirmed SGTF,1702,0.003067065,0.380704467
+North East,02/11/2021,477,100,Cases with confirmed S-gene,477,99.00407223,100
+North East,03/11/2021,905,100,Cases with confirmed S-gene,905,99.4730616,100
+North East,04/11/2021,628,100,Cases with confirmed S-gene,628,99.24206686,100
+North East,05/11/2021,706,100,Cases with confirmed S-gene,706,99.32534632,100
+North East,06/11/2021,527,100,Cases with confirmed S-gene,527,99.09787115,100
+North East,07/11/2021,439,100,Cases with confirmed S-gene,439,98.91862048,100
+North East,08/11/2021,1116,100,Cases with confirmed S-gene,1116,99.5723433,100
+North East,09/11/2021,994,99.9,Cases with confirmed S-gene,995,99.34988406,99.99475353
+North East,09/11/2021,1,0.1,Cases with confirmed SGTF,995,0.005246469,0.650115941
+North East,10/11/2021,1088,100,Cases with confirmed S-gene,1088,99.56137658,100
+North East,11/11/2021,1157,100,Cases with confirmed S-gene,1157,99.58744724,100
+North East,12/11/2021,1155,99.91,Cases with confirmed S-gene,1156,99.44011103,99.99548425
+North East,12/11/2021,1,0.09,Cases with confirmed SGTF,1156,0.004515749,0.55988897
+North East,13/11/2021,839,100,Cases with confirmed S-gene,839,99.43180097,100
+North East,14/11/2021,864,100,Cases with confirmed S-gene,864,99.44816833,100
+North East,15/11/2021,1176,100,Cases with confirmed S-gene,1176,99.59409069,100
+North East,16/11/2021,1080,100,Cases with confirmed S-gene,1080,99.55813916,100
+North East,17/11/2021,1467,100,Cases with confirmed S-gene,1467,99.67439587,100
+North East,18/11/2021,1333,99.85,Cases with confirmed S-gene,1335,99.39767341,99.97404687
+North East,18/11/2021,2,0.15,Cases with confirmed SGTF,1335,0.025953134,0.60232659
+North East,19/11/2021,1197,100,Cases with confirmed S-gene,1197,99.60118888,100
+North East,20/11/2021,1025,100,Cases with confirmed S-gene,1025,99.53451906,100
+North East,21/11/2021,938,100,Cases with confirmed S-gene,938,99.4915235,100
+North East,22/11/2021,1464,100,Cases with confirmed S-gene,1464,99.67373042,100
+North East,23/11/2021,1345,100,Cases with confirmed S-gene,1345,99.64494656,100
+North East,24/11/2021,1306,100,Cases with confirmed S-gene,1306,99.63437534,100
+North East,25/11/2021,1196,99.92,Cases with confirmed S-gene,1197,99.4592237,99.99563893
+North East,25/11/2021,1,0.08,Cases with confirmed SGTF,1197,0.004361069,0.540776305
+North East,26/11/2021,1044,100,Cases with confirmed S-gene,1044,99.54295906,100
+North East,27/11/2021,585,100,Cases with confirmed S-gene,585,99.18672301,100
+North East,28/11/2021,1160,99.91,Cases with confirmed S-gene,1161,99.44251386,99.9955037
+North East,28/11/2021,1,0.09,Cases with confirmed SGTF,1161,0.004496301,0.557486136
+North East,29/11/2021,1496,99.87,Cases with confirmed S-gene,1498,99.4630281,99.97687128
+North East,29/11/2021,2,0.13,Cases with confirmed SGTF,1498,0.02312872,0.536971902
+North East,30/11/2021,1465,99.93,Cases with confirmed S-gene,1466,99.55817809,99.99643918
+North East,30/11/2021,1,0.07,Cases with confirmed SGTF,1466,0.003560822,0.441821912
+North East,01/12/2021,1452,99.73,Cases with confirmed S-gene,1456,99.24684809,99.91195794
+North East,01/12/2021,4,0.27,Cases with confirmed SGTF,1456,0.08804206,0.753151906
+North East,02/12/2021,1276,99.84,Cases with confirmed S-gene,1278,99.37089817,99.97288914
+North East,02/12/2021,2,0.16,Cases with confirmed SGTF,1278,0.027110864,0.629101827
+North East,03/12/2021,1062,99.81,Cases with confirmed S-gene,1064,99.24487204,99.96743528
+North East,03/12/2021,2,0.19,Cases with confirmed SGTF,1064,0.032564723,0.755127962
+North East,04/12/2021,888,99.89,Cases with confirmed S-gene,889,99.27271981,99.99412794
+North East,04/12/2021,1,0.11,Cases with confirmed SGTF,889,0.005872062,0.727280185
+North East,05/12/2021,981,99.8,Cases with confirmed S-gene,983,99.18291696,99.96475133
+North East,05/12/2021,2,0.2,Cases with confirmed SGTF,983,0.035248674,0.817083044
+North East,06/12/2021,1408,99.65,Cases with confirmed S-gene,1413,99.12522624,99.86965283
+North East,06/12/2021,5,0.35,Cases with confirmed SGTF,1413,0.130347172,0.874773765
+North East,07/12/2021,1213,99.59,Cases with confirmed S-gene,1218,98.98572491,99.84877118
+North East,07/12/2021,5,0.41,Cases with confirmed SGTF,1218,0.151228816,1.014275087
+North East,08/12/2021,1348,99.78,Cases with confirmed S-gene,1351,99.29468643,99.94263303
+North East,08/12/2021,3,0.22,Cases with confirmed SGTF,1351,0.057366969,0.705313566
+North East,09/12/2021,1229,97.54,Cases with confirmed S-gene,1260,96.48285457,98.29431611
+North East,09/12/2021,31,2.46,Cases with confirmed SGTF,1260,1.705683892,3.517145434
+North East,10/12/2021,1030,95.64,Cases with confirmed S-gene,1077,94.19280715,96.74263767
+North East,10/12/2021,47,4.36,Cases with confirmed SGTF,1077,3.257362329,5.807192848
+North East,11/12/2021,909,94.29,Cases with confirmed S-gene,964,92.58916626,95.63608384
+North East,11/12/2021,55,5.71,Cases with confirmed SGTF,964,4.36391616,7.410833738
+North East,12/12/2021,551,89.59,Cases with confirmed S-gene,615,86.84046979,91.83854542
+North East,12/12/2021,64,10.41,Cases with confirmed SGTF,615,8.161454575,13.15953021
+North East,13/12/2021,1434,85.87,Cases with confirmed S-gene,1670,84.08377225,87.4851763
+North East,13/12/2021,236,14.13,Cases with confirmed SGTF,1670,12.5148237,15.91622775
+North East,14/12/2021,1228,73.58,Cases with confirmed S-gene,1669,71.37858399,75.66558629
+North East,14/12/2021,441,26.42,Cases with confirmed SGTF,1669,24.33441371,28.62141601
+North East,15/12/2021,1205,64.92,Cases with confirmed S-gene,1856,62.69747447,67.08924661
+North East,15/12/2021,651,35.08,Cases with confirmed SGTF,1856,32.91075339,37.30252553
+North East,16/12/2021,1102,64.26,Cases with confirmed S-gene,1715,61.92935551,66.51922161
+North East,16/12/2021,613,35.74,Cases with confirmed SGTF,1715,33.48077839,38.07064449
+North East,17/12/2021,871,57.11,Cases with confirmed S-gene,1525,54.58305472,59.61022823
+North East,17/12/2021,654,42.89,Cases with confirmed SGTF,1525,40.38977177,45.41694528
+North East,18/12/2021,713,52.62,Cases with confirmed S-gene,1355,49.92078155,55.30405242
+North East,18/12/2021,642,47.38,Cases with confirmed SGTF,1355,44.69594758,50.07921845
+North East,19/12/2021,662,46.42,Cases with confirmed S-gene,1426,43.81331633,49.0532856
+North East,19/12/2021,764,53.58,Cases with confirmed SGTF,1426,50.9467144,56.18668367
+North East,20/12/2021,860,38.36,Cases with confirmed S-gene,2242,36.34531407,40.41216821
+North East,20/12/2021,1382,61.64,Cases with confirmed SGTF,2242,59.58783179,63.65468593
+North East,21/12/2021,740,28.92,Cases with confirmed S-gene,2559,27.17441281,30.72458261
+North East,21/12/2021,1819,71.08,Cases with confirmed SGTF,2559,69.27541739,72.82558719
+North East,22/12/2021,719,21.42,Cases with confirmed S-gene,3356,20.05472003,22.85995377
+North East,22/12/2021,2637,78.58,Cases with confirmed SGTF,3356,77.14004623,79.94527997
+North East,23/12/2021,677,19.03,Cases with confirmed S-gene,3558,17.7577877,20.36483453
+North East,23/12/2021,2881,80.97,Cases with confirmed SGTF,3558,79.63516547,82.2422123
+North East,24/12/2021,589,16.82,Cases with confirmed S-gene,3502,15.6028185,18.10865491
+North East,24/12/2021,2913,83.18,Cases with confirmed SGTF,3502,81.89134509,84.3971815
+North East,25/12/2021,159,9.86,Cases with confirmed S-gene,1613,8.467776047,11.44184199
+North East,25/12/2021,1454,90.14,Cases with confirmed SGTF,1613,88.55815801,91.53222395
+North East,26/12/2021,337,11.2,Cases with confirmed S-gene,3010,10.10279142,12.38961109
+North East,26/12/2021,2673,88.8,Cases with confirmed SGTF,3010,87.61038891,89.89720858
+North East,27/12/2021,451,9.67,Cases with confirmed S-gene,4662,8.848027073,10.56713267
+North East,27/12/2021,4211,90.33,Cases with confirmed SGTF,4662,89.43286733,91.15197293
+North East,28/12/2021,226,6.53,Cases with confirmed S-gene,3461,5.740488968,7.417398681
+North East,28/12/2021,3235,93.47,Cases with confirmed SGTF,3461,92.58260132,94.25951103
+North West,01/11/2021,3136,99.9,Cases with confirmed S-gene,3139,99.69587143,99.97531398
+North West,01/11/2021,3,0.1,Cases with confirmed SGTF,3139,0.024686024,0.304128574
+North West,02/11/2021,2306,99.87,Cases with confirmed S-gene,2309,99.5867582,99.96643869
+North West,02/11/2021,3,0.13,Cases with confirmed SGTF,2309,0.033561305,0.413241799
+North West,03/11/2021,2033,100,Cases with confirmed S-gene,2033,99.76487326,100
+North West,04/11/2021,1983,99.95,Cases with confirmed S-gene,1984,99.67329728,99.99736889
+North West,04/11/2021,1,0.05,Cases with confirmed SGTF,1984,0.002631112,0.326702717
+North West,05/11/2021,2566,99.96,Cases with confirmed S-gene,2567,99.7473787,99.99796646
+North West,05/11/2021,1,0.04,Cases with confirmed SGTF,2567,0.002033541,0.252621296
+North West,06/11/2021,2283,99.96,Cases with confirmed S-gene,2284,99.71613308,99.99771449
+North West,06/11/2021,1,0.04,Cases with confirmed SGTF,2284,0.002285513,0.283866922
+North West,07/11/2021,2484,100,Cases with confirmed S-gene,2484,99.80749669,100
+North West,08/11/2021,3700,99.97,Cases with confirmed S-gene,3701,99.82469801,99.99858955
+North West,08/11/2021,1,0.03,Cases with confirmed SGTF,3701,0.00141045,0.17530199
+North West,09/11/2021,3550,99.92,Cases with confirmed S-gene,3553,99.73126466,99.97819075
+North West,09/11/2021,3,0.08,Cases with confirmed SGTF,3553,0.021809247,0.268735341
+North West,10/11/2021,3361,99.91,Cases with confirmed S-gene,3364,99.71618616,99.97696529
+North West,10/11/2021,3,0.09,Cases with confirmed SGTF,3364,0.023034707,0.283813838
+North West,11/11/2021,3351,99.97,Cases with confirmed S-gene,3352,99.80646817,99.9984427
+North West,11/11/2021,1,0.03,Cases with confirmed SGTF,3352,0.001557303,0.193531826
+North West,12/11/2021,3071,99.97,Cases with confirmed S-gene,3072,99.78885183,99.99830075
+North West,12/11/2021,1,0.03,Cases with confirmed SGTF,3072,0.001699247,0.211148173
+North West,13/11/2021,2545,100,Cases with confirmed S-gene,2545,99.81210369,100
+North West,14/11/2021,2522,100,Cases with confirmed S-gene,2522,99.81039276,100
+North West,15/11/2021,4251,99.98,Cases with confirmed S-gene,4252,99.84739305,99.99877233
+North West,15/11/2021,1,0.02,Cases with confirmed SGTF,4252,0.001227673,0.152606955
+North West,16/11/2021,3783,99.97,Cases with confirmed S-gene,3784,99.82853904,99.99862049
+North West,16/11/2021,1,0.03,Cases with confirmed SGTF,3784,0.001379512,0.171460955
+North West,17/11/2021,3717,100,Cases with confirmed S-gene,3717,99.87128707,100
+North West,18/11/2021,3690,100,Cases with confirmed S-gene,3690,99.87034626,100
+North West,19/11/2021,3165,99.97,Cases with confirmed S-gene,3166,99.79511289,99.99835121
+North West,19/11/2021,1,0.03,Cases with confirmed SGTF,3166,0.001648795,0.204887112
+North West,20/11/2021,2711,100,Cases with confirmed S-gene,2711,99.8235925,100
+North West,21/11/2021,2600,100,Cases with confirmed S-gene,2600,99.81607249,100
+North West,22/11/2021,3863,100,Cases with confirmed S-gene,3863,99.87614682,100
+North West,23/11/2021,3778,100,Cases with confirmed S-gene,3778,99.87336315,100
+North West,24/11/2021,3431,99.97,Cases with confirmed S-gene,3432,99.81097408,99.998479
+North West,24/11/2021,1,0.03,Cases with confirmed SGTF,3432,0.001521002,0.189025923
+North West,25/11/2021,3387,99.91,Cases with confirmed S-gene,3390,99.71836006,99.97714198
+North West,25/11/2021,3,0.09,Cases with confirmed SGTF,3390,0.022858019,0.28163994
+North West,26/11/2021,3083,99.97,Cases with confirmed S-gene,3084,99.78967234,99.99830737
+North West,26/11/2021,1,0.03,Cases with confirmed SGTF,3084,0.001692635,0.210327664
+North West,27/11/2021,2392,99.83,Cases with confirmed S-gene,2396,99.54175663,99.94650723
+North West,27/11/2021,4,0.17,Cases with confirmed SGTF,2396,0.053492772,0.458243372
+North West,28/11/2021,2764,99.89,Cases with confirmed S-gene,2767,99.65504936,99.97199466
+North West,28/11/2021,3,0.11,Cases with confirmed SGTF,2767,0.028005343,0.344950641
+North West,29/11/2021,4092,99.9,Cases with confirmed S-gene,4096,99.73173142,99.96871204
+North West,29/11/2021,4,0.1,Cases with confirmed SGTF,4096,0.031287957,0.268268578
+North West,30/11/2021,4297,99.72,Cases with confirmed S-gene,4309,99.49912776,99.84903848
+North West,30/11/2021,12,0.28,Cases with confirmed SGTF,4309,0.15096152,0.500872236
+North West,01/12/2021,4277,99.56,Cases with confirmed S-gene,4296,99.29608884,99.72575084
+North West,01/12/2021,19,0.44,Cases with confirmed SGTF,4296,0.274249165,0.703911156
+North West,02/12/2021,3913,99.29,Cases with confirmed S-gene,3941,98.96011974,99.51835903
+North West,02/12/2021,28,0.71,Cases with confirmed SGTF,3941,0.481640971,1.039880261
+North West,03/12/2021,3559,98.86,Cases with confirmed S-gene,3600,98.44277223,99.17115912
+North West,03/12/2021,41,1.14,Cases with confirmed SGTF,3600,0.828840877,1.557227767
+North West,04/12/2021,1121,98.85,Cases with confirmed S-gene,1134,97.99336637,99.36134864
+North West,04/12/2021,13,1.15,Cases with confirmed SGTF,1134,0.638651355,2.006633634
+North West,05/12/2021,2888,98.26,Cases with confirmed S-gene,2939,97.70650146,98.69242704
+North West,05/12/2021,51,1.74,Cases with confirmed SGTF,2939,1.307572962,2.293498538
+North West,06/12/2021,2879,95.74,Cases with confirmed S-gene,3007,94.94349846,96.42362816
+North West,06/12/2021,128,4.26,Cases with confirmed SGTF,3007,3.576371838,5.056501537
+North West,07/12/2021,3086,92.7,Cases with confirmed S-gene,3329,91.75094995,93.54996795
+North West,07/12/2021,243,7.3,Cases with confirmed SGTF,3329,6.450032046,8.249050051
+North West,08/12/2021,2384,88.56,Cases with confirmed S-gene,2692,87.281514,89.72428744
+North West,08/12/2021,308,11.44,Cases with confirmed SGTF,2692,10.27571256,12.718486
+North West,09/12/2021,2434,86.47,Cases with confirmed S-gene,2815,85.13339202,87.69655284
+North West,09/12/2021,381,13.53,Cases with confirmed SGTF,2815,12.30344716,14.86660798
+North West,10/12/2021,3234,82.1,Cases with confirmed S-gene,3939,80.8608329,83.28006385
+North West,10/12/2021,705,17.9,Cases with confirmed SGTF,3939,16.71993615,19.1391671
+North West,11/12/2021,2779,78.61,Cases with confirmed S-gene,3535,77.21705869,79.94789311
+North West,11/12/2021,756,21.39,Cases with confirmed SGTF,3535,20.05210689,22.78294131
+North West,12/12/2021,2502,70.8,Cases with confirmed S-gene,3534,69.26257387,72.28775976
+North West,12/12/2021,1032,29.2,Cases with confirmed SGTF,3534,27.71224024,30.73742613
+North West,13/12/2021,2766,63.97,Cases with confirmed S-gene,4324,62.51411101,65.39798659
+North West,13/12/2021,1558,36.03,Cases with confirmed SGTF,4324,34.60201341,37.48588899
+North West,14/12/2021,2715,50.08,Cases with confirmed S-gene,5421,48.74320663,51.42269602
+North West,14/12/2021,2706,49.92,Cases with confirmed SGTF,5421,48.57730398,51.25679337
+North West,15/12/2021,2400,37.52,Cases with confirmed S-gene,6397,36.33117935,38.71907467
+North West,15/12/2021,3997,62.48,Cases with confirmed SGTF,6397,61.28092533,63.66882065
+North West,16/12/2021,2290,35.81,Cases with confirmed S-gene,6395,34.63524566,37.00035807
+North West,16/12/2021,4105,64.19,Cases with confirmed SGTF,6395,62.99964193,65.36475434
+North West,17/12/2021,1914,32.71,Cases with confirmed S-gene,5851,31.51343682,33.93412353
+North West,17/12/2021,3937,67.29,Cases with confirmed SGTF,5851,66.06587647,68.48656318
+North West,18/12/2021,1541,27.5,Cases with confirmed S-gene,5604,26.33610005,28.6913944
+North West,18/12/2021,4063,72.5,Cases with confirmed SGTF,5604,71.3086056,73.66389995
+North West,19/12/2021,1319,22.67,Cases with confirmed S-gene,5819,21.6011856,23.76941643
+North West,19/12/2021,4500,77.33,Cases with confirmed SGTF,5819,76.23058357,78.3988144
+North West,20/12/2021,1751,18.34,Cases with confirmed S-gene,9548,17.57033255,19.13314373
+North West,20/12/2021,7797,81.66,Cases with confirmed SGTF,9548,80.86685627,82.42966745
+North West,21/12/2021,1494,13.22,Cases with confirmed S-gene,11305,12.59926235,13.85668793
+North West,21/12/2021,9811,86.78,Cases with confirmed SGTF,11305,86.14331207,87.40073765
+North West,22/12/2021,1570,9.24,Cases with confirmed S-gene,16985,8.814153319,9.691302873
+North West,22/12/2021,15415,90.76,Cases with confirmed SGTF,16985,90.30869713,91.18584668
+North West,23/12/2021,1268,8.78,Cases with confirmed S-gene,14444,8.324748057,9.254799806
+North West,23/12/2021,13176,91.22,Cases with confirmed SGTF,14444,90.74520019,91.67525194
+North West,24/12/2021,1033,7.87,Cases with confirmed S-gene,13118,7.42228808,8.35193245
+North West,24/12/2021,12085,92.13,Cases with confirmed SGTF,13118,91.64806755,92.57771192
+North West,25/12/2021,431,6.17,Cases with confirmed S-gene,6983,5.624588814,6.768480782
+North West,25/12/2021,6552,93.83,Cases with confirmed SGTF,6983,93.23151922,94.37541119
+North West,26/12/2021,644,5.57,Cases with confirmed S-gene,11553,5.166360352,6.012098272
+North West,26/12/2021,10909,94.43,Cases with confirmed SGTF,11553,93.98790173,94.83363965
+North West,27/12/2021,806,5.09,Cases with confirmed S-gene,15840,4.753854258,5.444892485
+North West,27/12/2021,15034,94.91,Cases with confirmed SGTF,15840,94.55510752,95.24614574
+North West,28/12/2021,389,4,Cases with confirmed S-gene,9727,3.622705118,4.412448446
+North West,28/12/2021,9338,96,Cases with confirmed SGTF,9727,95.58755155,96.37729488
+South East,01/11/2021,1547,99.42,Cases with confirmed S-gene,1556,98.86256764,99.71746217
+South East,01/11/2021,9,0.58,Cases with confirmed SGTF,1556,0.282537834,1.137432358
+South East,02/11/2021,1180,99.83,Cases with confirmed S-gene,1182,99.31998678,99.97068684
+South East,02/11/2021,2,0.17,Cases with confirmed SGTF,1182,0.029313165,0.680013215
+South East,03/11/2021,1452,99.32,Cases with confirmed S-gene,1462,98.70149934,99.65204624
+South East,03/11/2021,10,0.68,Cases with confirmed SGTF,1462,0.347953764,1.298500664
+South East,04/11/2021,1013,99.9,Cases with confirmed S-gene,1014,99.36201714,99.99485184
+South East,04/11/2021,1,0.1,Cases with confirmed SGTF,1014,0.005148158,0.637982859
+South East,05/11/2021,1088,99.63,Cases with confirmed S-gene,1092,98.9968552,99.88259458
+South East,05/11/2021,4,0.37,Cases with confirmed SGTF,1092,0.117405419,1.003144803
+South East,06/11/2021,789,100,Cases with confirmed S-gene,789,99.39596982,100
+South East,07/11/2021,825,99.64,Cases with confirmed S-gene,828,98.85155766,99.90637973
+South East,07/11/2021,3,0.36,Cases with confirmed SGTF,828,0.093620273,1.148442336
+South East,08/11/2021,1261,99.53,Cases with confirmed S-gene,1267,98.91708504,99.80735172
+South East,08/11/2021,6,0.47,Cases with confirmed SGTF,1267,0.192648285,1.082914961
+South East,09/11/2021,1672,99.76,Cases with confirmed S-gene,1676,99.34543881,99.92351888
+South East,09/11/2021,4,0.24,Cases with confirmed SGTF,1676,0.076481121,0.654561195
+South East,10/11/2021,1530,99.74,Cases with confirmed S-gene,1534,99.28502898,99.91643639
+South East,10/11/2021,4,0.26,Cases with confirmed SGTF,1534,0.083563608,0.714971017
+South East,11/11/2021,1382,99.64,Cases with confirmed S-gene,1387,99.1088846,99.86720804
+South East,11/11/2021,5,0.36,Cases with confirmed SGTF,1387,0.132791957,0.891115397
+South East,12/11/2021,1271,99.92,Cases with confirmed S-gene,1272,99.49100766,99.99589608
+South East,12/11/2021,1,0.08,Cases with confirmed SGTF,1272,0.004103922,0.508992343
+South East,13/11/2021,1628,99.82,Cases with confirmed S-gene,1631,99.41544157,99.9524839
+South East,13/11/2021,3,0.18,Cases with confirmed SGTF,1631,0.047516096,0.584558431
+South East,14/11/2021,1391,99.78,Cases with confirmed S-gene,1394,99.31637379,99.94440312
+South East,14/11/2021,3,0.22,Cases with confirmed SGTF,1394,0.055596881,0.683626206
+South East,15/11/2021,3698,99.81,Cases with confirmed S-gene,3705,99.59241985,99.91718595
+South East,15/11/2021,7,0.19,Cases with confirmed SGTF,3705,0.08281405,0.407580151
+South East,16/11/2021,2674,99.81,Cases with confirmed S-gene,2679,99.53787568,99.93126803
+South East,16/11/2021,5,0.19,Cases with confirmed SGTF,2679,0.068731967,0.462124323
+South East,17/11/2021,2540,99.84,Cases with confirmed S-gene,2544,99.56836715,99.94961996
+South East,17/11/2021,4,0.16,Cases with confirmed SGTF,2544,0.050380043,0.431632853
+South East,18/11/2021,2570,100,Cases with confirmed S-gene,2570,99.81392872,100
+South East,19/11/2021,1804,99.83,Cases with confirmed S-gene,1807,99.47223744,99.95711297
+South East,19/11/2021,3,0.17,Cases with confirmed SGTF,1807,0.042887029,0.527762563
+South East,20/11/2021,1477,100,Cases with confirmed S-gene,1477,99.67659459,100
+South East,21/11/2021,1693,99.65,Cases with confirmed S-gene,1699,99.19163465,99.85636303
+South East,21/11/2021,6,0.35,Cases with confirmed SGTF,1699,0.14363697,0.808365353
+South East,22/11/2021,2437,99.75,Cases with confirmed S-gene,2443,99.43731943,99.90012361
+South East,22/11/2021,6,0.25,Cases with confirmed SGTF,2443,0.099876386,0.562680568
+South East,23/11/2021,2509,99.92,Cases with confirmed S-gene,2511,99.67928977,99.98620279
+South East,23/11/2021,2,0.08,Cases with confirmed SGTF,2511,0.013797213,0.320710229
+South East,24/11/2021,2156,100,Cases with confirmed S-gene,2156,99.77826314,100
+South East,25/11/2021,2678,99.67,Cases with confirmed S-gene,2687,99.34037158,99.83644882
+South East,25/11/2021,9,0.33,Cases with confirmed SGTF,2687,0.163551183,0.659628424
+South East,26/11/2021,1747,99.54,Cases with confirmed S-gene,1755,99.06552135,99.7878917
+South East,26/11/2021,8,0.46,Cases with confirmed SGTF,1755,0.212108297,0.934478653
+South East,27/11/2021,1603,99.44,Cases with confirmed S-gene,1612,98.90194959,99.72728593
+South East,27/11/2021,9,0.56,Cases with confirmed SGTF,1612,0.272714074,1.098050405
+South East,28/11/2021,1665,99.76,Cases with confirmed S-gene,1669,99.34270107,99.92319799
+South East,28/11/2021,4,0.24,Cases with confirmed SGTF,1669,0.076802007,0.657298932
+South East,29/11/2021,2604,99.28,Cases with confirmed S-gene,2623,98.84824425,99.55065435
+South East,29/11/2021,19,0.72,Cases with confirmed SGTF,2623,0.449345654,1.151755753
+South East,30/11/2021,2518,99.64,Cases with confirmed S-gene,2527,99.29869532,99.82608763
+South East,30/11/2021,9,0.36,Cases with confirmed SGTF,2527,0.173912367,0.701304683
+South East,01/12/2021,2593,99.2,Cases with confirmed S-gene,2614,98.75191738,99.48907507
+South East,01/12/2021,21,0.8,Cases with confirmed SGTF,2614,0.510924926,1.248082615
+South East,02/12/2021,2130,98.66,Cases with confirmed S-gene,2159,98.05042859,99.08219356
+South East,02/12/2021,29,1.34,Cases with confirmed SGTF,2159,0.917806439,1.949571409
+South East,03/12/2021,2446,99.07,Cases with confirmed S-gene,2469,98.58180217,99.39466221
+South East,03/12/2021,23,0.93,Cases with confirmed SGTF,2469,0.605337785,1.418197826
+South East,04/12/2021,2282,98.62,Cases with confirmed S-gene,2314,98.02917792,99.03668854
+South East,04/12/2021,32,1.38,Cases with confirmed SGTF,2314,0.963311463,1.970822082
+South East,05/12/2021,1708,97.38,Cases with confirmed S-gene,1754,96.48735677,98.05260929
+South East,05/12/2021,46,2.62,Cases with confirmed SGTF,1754,1.947390709,3.512643227
+South East,06/12/2021,2488,95.14,Cases with confirmed S-gene,2615,94.23062206,95.92068581
+South East,06/12/2021,127,4.86,Cases with confirmed SGTF,2615,4.079314192,5.769377941
+South East,07/12/2021,2483,90.89,Cases with confirmed S-gene,2732,89.72914091,91.92569463
+South East,07/12/2021,249,9.11,Cases with confirmed SGTF,2732,8.074305368,10.27085909
+South East,08/12/2021,2610,87.64,Cases with confirmed S-gene,2978,86.39456299,88.79249877
+South East,08/12/2021,368,12.36,Cases with confirmed SGTF,2978,11.20750123,13.60543701
+South East,09/12/2021,2694,86.02,Cases with confirmed S-gene,3132,84.73997502,87.2012793
+South East,09/12/2021,438,13.98,Cases with confirmed SGTF,3132,12.7987207,15.26002498
+South East,10/12/2021,2284,80.79,Cases with confirmed S-gene,2827,79.28065132,82.2194801
+South East,10/12/2021,543,19.21,Cases with confirmed SGTF,2827,17.7805199,20.71934868
+South East,11/12/2021,1304,73.46,Cases with confirmed S-gene,1775,71.33291062,75.49393313
+South East,11/12/2021,471,26.54,Cases with confirmed SGTF,1775,24.50606687,28.66708938
+South East,12/12/2021,1295,66.11,Cases with confirmed S-gene,1959,63.95347885,68.19302728
+South East,12/12/2021,664,33.89,Cases with confirmed SGTF,1959,31.80697272,36.04652115
+South East,13/12/2021,2097,59.04,Cases with confirmed S-gene,3552,57.3968762,60.65775214
+South East,13/12/2021,1455,40.96,Cases with confirmed SGTF,3552,39.34224786,42.6031238
+South East,14/12/2021,1669,44.61,Cases with confirmed S-gene,3741,43.0138633,46.22475911
+South East,14/12/2021,2072,55.39,Cases with confirmed SGTF,3741,53.77524089,56.9861367
+South East,15/12/2021,1580,37.24,Cases with confirmed S-gene,4243,35.78364926,38.71523253
+South East,15/12/2021,2663,62.76,Cases with confirmed SGTF,4243,61.28476747,64.21635074
+South East,16/12/2021,1516,33.49,Cases with confirmed S-gene,4527,32.11675635,34.88739008
+South East,16/12/2021,3011,66.51,Cases with confirmed SGTF,4527,65.11260992,67.88324365
+South East,17/12/2021,1351,31.85,Cases with confirmed S-gene,4242,30.45152134,33.2779703
+South East,17/12/2021,2891,68.15,Cases with confirmed SGTF,4242,66.7220297,69.54847866
+South East,18/12/2021,880,26.67,Cases with confirmed S-gene,3299,25.17849165,28.22581082
+South East,18/12/2021,2419,73.33,Cases with confirmed SGTF,3299,71.77418918,74.82150835
+South East,19/12/2021,737,24.04,Cases with confirmed S-gene,3066,22.54243723,25.59890708
+South East,19/12/2021,2329,75.96,Cases with confirmed SGTF,3066,74.40109292,77.45756277
+South East,20/12/2021,842,20.67,Cases with confirmed S-gene,4073,19.44498595,21.95627287
+South East,20/12/2021,3231,79.33,Cases with confirmed SGTF,4073,78.04372713,80.55501405
+South East,21/12/2021,1029,17.1,Cases with confirmed S-gene,6016,16.16581874,18.0853079
+South East,21/12/2021,4987,82.9,Cases with confirmed SGTF,6016,81.9146921,83.83418126
+South East,22/12/2021,775,14.04,Cases with confirmed S-gene,5519,13.14197916,14.99333409
+South East,22/12/2021,4744,85.96,Cases with confirmed SGTF,5519,85.00666591,86.85802084
+South East,23/12/2021,645,12.01,Cases with confirmed S-gene,5369,11.1617947,12.91992621
+South East,23/12/2021,4724,87.99,Cases with confirmed SGTF,5369,87.08007379,88.8382053
+South East,24/12/2021,524,10.82,Cases with confirmed S-gene,4842,9.967856135,11.73894037
+South East,24/12/2021,4318,89.18,Cases with confirmed SGTF,4842,88.26105963,90.03214387
+South East,25/12/2021,185,8.99,Cases with confirmed S-gene,2057,7.809811918,10.33341896
+South East,25/12/2021,1872,91.01,Cases with confirmed SGTF,2057,89.66658104,92.19018808
+South East,26/12/2021,229,8.4,Cases with confirmed S-gene,2725,7.402331062,9.524178937
+South East,26/12/2021,2496,91.6,Cases with confirmed SGTF,2725,90.47582106,92.59766894
+South East,27/12/2021,292,6.82,Cases with confirmed S-gene,4280,6.094065987,7.629426797
+South East,27/12/2021,3988,93.18,Cases with confirmed SGTF,4280,92.3705732,93.90593401
+South East,28/12/2021,214,4.92,Cases with confirmed S-gene,4354,4.300923798,5.610020962
+South East,28/12/2021,4140,95.08,Cases with confirmed SGTF,4354,94.38997904,95.6990762
+South West,01/11/2021,805,99.88,Cases with confirmed S-gene,806,99.19820157,99.99352321
+South West,01/11/2021,1,0.12,Cases with confirmed SGTF,806,0.006476785,0.801798429
+South West,02/11/2021,671,100,Cases with confirmed S-gene,671,99.29035828,100
+South West,03/11/2021,994,100,Cases with confirmed S-gene,994,99.52005856,100
+South West,04/11/2021,716,100,Cases with confirmed S-gene,716,99.33471802,100
+South West,05/11/2021,794,100,Cases with confirmed S-gene,794,99.39975502,100
+South West,06/11/2021,596,100,Cases with confirmed S-gene,596,99.20163596,100
+South West,07/11/2021,859,100,Cases with confirmed S-gene,859,99.44497073,100
+South West,08/11/2021,1051,100,Cases with confirmed S-gene,1051,99.54599189,100
+South West,09/11/2021,993,100,Cases with confirmed S-gene,993,99.51957711,100
+South West,10/11/2021,958,100,Cases with confirmed S-gene,958,99.50209601,100
+South West,11/11/2021,822,100,Cases with confirmed S-gene,822,99.42010516,100
+South West,12/11/2021,718,100,Cases with confirmed S-gene,718,99.3365612,100
+South West,13/11/2021,871,100,Cases with confirmed S-gene,871,99.45258357,100
+South West,14/11/2021,752,100,Cases with confirmed S-gene,752,99.36640297,100
+South West,15/11/2021,1342,100,Cases with confirmed S-gene,1342,99.64415514,100
+South West,16/11/2021,577,100,Cases with confirmed S-gene,577,99.17552247,100
+South West,17/11/2021,467,100,Cases with confirmed S-gene,467,98.98292208,100
+South West,18/11/2021,564,100,Cases with confirmed S-gene,564,99.15664855,100
+South West,19/11/2021,336,100,Cases with confirmed S-gene,336,98.59091494,100
+South West,20/11/2021,303,100,Cases with confirmed S-gene,303,98.43939293,100
+South West,21/11/2021,300,100,Cases with confirmed S-gene,300,98.42398637,100
+South West,22/11/2021,468,100,Cases with confirmed S-gene,468,98.98507743,100
+South West,23/11/2021,1007,100,Cases with confirmed S-gene,1007,99.52623062,100
+South West,24/11/2021,843,100,Cases with confirmed S-gene,843,99.43448468,100
+South West,25/11/2021,1076,99.91,Cases with confirmed S-gene,1077,99.39919633,99.995153
+South West,25/11/2021,1,0.09,Cases with confirmed SGTF,1077,0.004847001,0.600803671
+South West,26/11/2021,765,99.87,Cases with confirmed S-gene,766,99.15655296,99.99318498
+South West,26/11/2021,1,0.13,Cases with confirmed SGTF,766,0.006815017,0.843447036
+South West,27/11/2021,780,99.62,Cases with confirmed S-gene,783,98.78592769,99.90099644
+South West,27/11/2021,3,0.38,Cases with confirmed SGTF,783,0.099003558,1.214072309
+South West,28/11/2021,743,100,Cases with confirmed S-gene,743,99.35876808,100
+South West,29/11/2021,1123,99.65,Cases with confirmed S-gene,1127,99.02788154,99.88624264
+South West,29/11/2021,4,0.35,Cases with confirmed SGTF,1127,0.113757361,0.972118459
+South West,30/11/2021,1101,99.46,Cases with confirmed S-gene,1107,98.76126348,99.77948362
+South West,30/11/2021,6,0.54,Cases with confirmed SGTF,1107,0.220516383,1.238736523
+South West,01/12/2021,1134,99.65,Cases with confirmed S-gene,1138,99.03724011,99.8873428
+South West,01/12/2021,4,0.35,Cases with confirmed SGTF,1138,0.112657197,0.962759886
+South West,02/12/2021,876,99.66,Cases with confirmed S-gene,879,98.91785571,99.91181415
+South West,02/12/2021,3,0.34,Cases with confirmed SGTF,879,0.088185854,1.082144289
+South West,03/12/2021,1143,98.96,Cases with confirmed S-gene,1155,98.13820162,99.43615525
+South West,03/12/2021,12,1.04,Cases with confirmed SGTF,1155,0.563844752,1.86179838
+South West,04/12/2021,1211,98.78,Cases with confirmed S-gene,1226,97.94078358,99.28795076
+South West,04/12/2021,15,1.22,Cases with confirmed SGTF,1226,0.712049238,2.059216421
+South West,05/12/2021,786,98.13,Cases with confirmed S-gene,801,96.8565497,98.90911237
+South West,05/12/2021,15,1.87,Cases with confirmed SGTF,801,1.090887626,3.143450299
+South West,06/12/2021,779,97.74,Cases with confirmed S-gene,797,96.38243404,98.6154882
+South West,06/12/2021,18,2.26,Cases with confirmed SGTF,797,1.384511804,3.617565956
+South West,07/12/2021,500,93.98,Cases with confirmed S-gene,532,91.52424259,95.78614374
+South West,07/12/2021,32,6.02,Cases with confirmed SGTF,532,4.213856263,8.475757405
+South West,08/12/2021,669,91.64,Cases with confirmed S-gene,730,89.33634391,93.50058942
+South West,08/12/2021,61,8.36,Cases with confirmed SGTF,730,6.499410577,10.66365609
+South West,09/12/2021,752,90.71,Cases with confirmed S-gene,829,88.47791658,92.55853601
+South West,09/12/2021,77,9.29,Cases with confirmed SGTF,829,7.441463987,11.52208342
+South West,10/12/2021,886,86.95,Cases with confirmed S-gene,1019,84.68792009,88.92397056
+South West,10/12/2021,133,13.05,Cases with confirmed SGTF,1019,11.07602944,15.31207991
+South West,11/12/2021,412,84.08,Cases with confirmed S-gene,490,80.46946614,87.14699389
+South West,11/12/2021,78,15.92,Cases with confirmed SGTF,490,12.85300611,19.53053386
+South West,12/12/2021,691,76.69,Cases with confirmed S-gene,901,73.76461339,79.38932793
+South West,12/12/2021,210,23.31,Cases with confirmed SGTF,901,20.61067207,26.23538661
+South West,13/12/2021,682,70.24,Cases with confirmed S-gene,971,67.23316415,73.07823445
+South West,13/12/2021,289,29.76,Cases with confirmed SGTF,971,26.92176555,32.76683585
+South West,14/12/2021,509,51.62,Cases with confirmed S-gene,986,48.45260458,54.78003201
+South West,14/12/2021,477,48.38,Cases with confirmed SGTF,986,45.21996799,51.54739542
+South West,15/12/2021,482,46.8,Cases with confirmed S-gene,1030,43.7182562,49.89816482
+South West,15/12/2021,548,53.2,Cases with confirmed SGTF,1030,50.10183518,56.2817438
+South West,16/12/2021,689,41.71,Cases with confirmed S-gene,1652,39.3212987,44.13171259
+South West,16/12/2021,963,58.29,Cases with confirmed SGTF,1652,55.86828741,60.6787013
+South West,17/12/2021,624,37.43,Cases with confirmed S-gene,1667,35.11118779,39.81237261
+South West,17/12/2021,1043,62.57,Cases with confirmed SGTF,1667,60.18762739,64.88881221
+South West,18/12/2021,489,31.51,Cases with confirmed S-gene,1552,29.21312475,33.89492713
+South West,18/12/2021,1063,68.49,Cases with confirmed SGTF,1552,66.10507287,70.78687525
+South West,19/12/2021,404,26.95,Cases with confirmed S-gene,1499,24.73374546,29.28843418
+South West,19/12/2021,1095,73.05,Cases with confirmed SGTF,1499,70.71156582,75.26625454
+South West,20/12/2021,431,20.92,Cases with confirmed S-gene,2060,19.19728141,22.75711785
+South West,20/12/2021,1629,79.08,Cases with confirmed SGTF,2060,77.24288215,80.80271859
+South West,21/12/2021,422,15.83,Cases with confirmed S-gene,2665,14.48009705,17.28937877
+South West,21/12/2021,2243,84.17,Cases with confirmed SGTF,2665,82.71062123,85.51990295
+South West,22/12/2021,369,14.07,Cases with confirmed S-gene,2622,12.77638677,15.47668774
+South West,22/12/2021,2253,85.93,Cases with confirmed SGTF,2622,84.52331226,87.22361323
+South West,23/12/2021,259,13.48,Cases with confirmed S-gene,1921,12.00319613,15.11016261
+South West,23/12/2021,1662,86.52,Cases with confirmed SGTF,1921,84.88983739,87.99680387
+South West,24/12/2021,277,11.93,Cases with confirmed S-gene,2322,10.65298558,13.333565
+South West,24/12/2021,2045,88.07,Cases with confirmed SGTF,2322,86.666435,89.34701442
+South West,25/12/2021,45,10.39,Cases with confirmed S-gene,433,7.757536777,13.75193264
+South West,25/12/2021,388,89.61,Cases with confirmed SGTF,433,86.24806736,92.24246322
+South West,26/12/2021,20,8.16,Cases with confirmed S-gene,245,5.183252171,12.50993718
+South West,26/12/2021,225,91.84,Cases with confirmed SGTF,245,87.49006282,94.81674783
+South West,27/12/2021,143,7,Cases with confirmed S-gene,2044,5.946392268,8.21067452
+South West,27/12/2021,1901,93,Cases with confirmed SGTF,2044,91.78932548,94.05360773
+South West,28/12/2021,100,5.27,Cases with confirmed S-gene,1899,4.324719152,6.392468351
+South West,28/12/2021,1799,94.73,Cases with confirmed SGTF,1899,93.60753165,95.67528085
+West Midlands,01/11/2021,2869,99.97,Cases with confirmed S-gene,2870,99.77401151,99.99818115
+West Midlands,01/11/2021,1,0.03,Cases with confirmed SGTF,2870,0.001818847,0.225988487
+West Midlands,02/11/2021,2178,99.86,Cases with confirmed S-gene,2181,99.56255485,99.96446866
+West Midlands,02/11/2021,3,0.14,Cases with confirmed SGTF,2181,0.035531342,0.437445155
+West Midlands,03/11/2021,2088,100,Cases with confirmed S-gene,2088,99.77105523,100
+West Midlands,04/11/2021,1801,100,Cases with confirmed S-gene,1801,99.73465004,100
+West Midlands,05/11/2021,1322,100,Cases with confirmed S-gene,1322,99.63878748,100
+West Midlands,06/11/2021,1084,100,Cases with confirmed S-gene,1084,99.55976382,100
+West Midlands,07/11/2021,1096,100,Cases with confirmed S-gene,1096,99.56456691,100
+West Midlands,08/11/2021,1401,99.93,Cases with confirmed S-gene,1402,99.53806755,99.99627662
+West Midlands,08/11/2021,1,0.07,Cases with confirmed SGTF,1402,0.003723375,0.461932447
+West Midlands,09/11/2021,1183,99.92,Cases with confirmed S-gene,1184,99.45330641,99.99559105
+West Midlands,09/11/2021,1,0.08,Cases with confirmed SGTF,1184,0.004408954,0.546693594
+West Midlands,10/11/2021,1161,100,Cases with confirmed S-gene,1161,99.58886387,100
+West Midlands,11/11/2021,1270,100,Cases with confirmed S-gene,1270,99.62404277,100
+West Midlands,12/11/2021,1306,100,Cases with confirmed S-gene,1306,99.63437534,100
+West Midlands,13/11/2021,1269,100,Cases with confirmed S-gene,1269,99.62374741,100
+West Midlands,14/11/2021,903,100,Cases with confirmed S-gene,903,99.47189951,100
+West Midlands,15/11/2021,2420,99.92,Cases with confirmed S-gene,2422,99.66752544,99.98569574
+West Midlands,15/11/2021,2,0.08,Cases with confirmed SGTF,2422,0.014304257,0.332474555
+West Midlands,16/11/2021,2883,100,Cases with confirmed S-gene,2883,99.83410283,100
+West Midlands,17/11/2021,2008,99.95,Cases with confirmed S-gene,2009,99.67735458,99.99740163
+West Midlands,17/11/2021,1,0.05,Cases with confirmed SGTF,2009,0.00259837,0.322645425
+West Midlands,18/11/2021,2438,100,Cases with confirmed S-gene,2438,99.80387033,100
+West Midlands,19/11/2021,2563,99.96,Cases with confirmed S-gene,2564,99.74708359,99.99796408
+West Midlands,19/11/2021,1,0.04,Cases with confirmed SGTF,2564,0.002035921,0.252916407
+West Midlands,20/11/2021,2106,99.91,Cases with confirmed S-gene,2108,99.61810092,99.98356481
+West Midlands,20/11/2021,2,0.09,Cases with confirmed SGTF,2108,0.016435186,0.381899076
+West Midlands,21/11/2021,2239,99.87,Cases with confirmed S-gene,2242,99.57443327,99.96543557
+West Midlands,21/11/2021,3,0.13,Cases with confirmed SGTF,2242,0.034564435,0.42556673
+West Midlands,22/11/2021,3035,99.97,Cases with confirmed S-gene,3036,99.78635144,99.9982806
+West Midlands,22/11/2021,1,0.03,Cases with confirmed SGTF,3036,0.001719396,0.213648564
+West Midlands,23/11/2021,2291,99.96,Cases with confirmed S-gene,2292,99.71712214,99.99772246
+West Midlands,23/11/2021,1,0.04,Cases with confirmed SGTF,2292,0.002277535,0.282877864
+West Midlands,24/11/2021,2000,99.9,Cases with confirmed S-gene,2002,99.59792334,99.98269452
+West Midlands,24/11/2021,2,0.1,Cases with confirmed SGTF,2002,0.017305475,0.402076657
+West Midlands,25/11/2021,2099,99.95,Cases with confirmed S-gene,2100,99.69130891,99.99751423
+West Midlands,25/11/2021,1,0.05,Cases with confirmed SGTF,2100,0.002485771,0.308691093
+West Midlands,26/11/2021,1751,99.83,Cases with confirmed S-gene,1754,99.45633048,99.95581677
+West Midlands,26/11/2021,3,0.17,Cases with confirmed SGTF,1754,0.044183233,0.543669517
+West Midlands,27/11/2021,1180,99.75,Cases with confirmed S-gene,1183,99.19489816,99.93448343
+West Midlands,27/11/2021,3,0.25,Cases with confirmed SGTF,1183,0.065516572,0.805101843
+West Midlands,28/11/2021,1570,99.94,Cases with confirmed S-gene,1571,99.58763178,99.99667718
+West Midlands,28/11/2021,1,0.06,Cases with confirmed SGTF,1571,0.003322823,0.412368223
+West Midlands,29/11/2021,3177,99.81,Cases with confirmed S-gene,3183,99.56793127,99.92335025
+West Midlands,29/11/2021,6,0.19,Cases with confirmed SGTF,3183,0.076649749,0.432068731
+West Midlands,30/11/2021,3062,99.8,Cases with confirmed S-gene,3068,99.5517618,99.92047625
+West Midlands,30/11/2021,6,0.2,Cases with confirmed SGTF,3068,0.079523747,0.448238198
+West Midlands,01/12/2021,2984,99.73,Cases with confirmed S-gene,2992,99.45119158,99.87562168
+West Midlands,01/12/2021,8,0.27,Cases with confirmed SGTF,2992,0.124378324,0.548808423
+West Midlands,02/12/2021,2786,99.75,Cases with confirmed S-gene,2793,99.45957503,99.89013396
+West Midlands,02/12/2021,7,0.25,Cases with confirmed SGTF,2793,0.109866041,0.54042497
+West Midlands,03/12/2021,1946,99.64,Cases with confirmed S-gene,1953,99.22773984,99.84285307
+West Midlands,03/12/2021,7,0.36,Cases with confirmed SGTF,1953,0.157146929,0.772260157
+West Midlands,04/12/2021,792,99.37,Cases with confirmed S-gene,797,98.45315663,99.76880985
+West Midlands,04/12/2021,5,0.63,Cases with confirmed SGTF,797,0.231190146,1.546843374
+West Midlands,05/12/2021,1119,99.11,Cases with confirmed S-gene,1129,98.32037416,99.54927619
+West Midlands,05/12/2021,10,0.89,Cases with confirmed SGTF,1129,0.450723812,1.679625843
+West Midlands,06/12/2021,1825,98.81,Cases with confirmed S-gene,1847,98.17064977,99.23365169
+West Midlands,06/12/2021,22,1.19,Cases with confirmed SGTF,1847,0.766348308,1.829350232
+West Midlands,07/12/2021,1588,97.6,Cases with confirmed S-gene,1627,96.704822,98.26766216
+West Midlands,07/12/2021,39,2.4,Cases with confirmed SGTF,1627,1.732337844,3.295177999
+West Midlands,08/12/2021,1584,94.12,Cases with confirmed S-gene,1683,92.85756204,95.17150974
+West Midlands,08/12/2021,99,5.88,Cases with confirmed SGTF,1683,4.828490261,7.142437961
+West Midlands,09/12/2021,1546,91.81,Cases with confirmed S-gene,1684,90.36632219,93.04953842
+West Midlands,09/12/2021,138,8.19,Cases with confirmed SGTF,1684,6.950461584,9.633677809
+West Midlands,10/12/2021,2472,88.67,Cases with confirmed S-gene,2788,87.4166667,89.80672993
+West Midlands,10/12/2021,316,11.33,Cases with confirmed SGTF,2788,10.19327007,12.5833333
+West Midlands,11/12/2021,2044,84.95,Cases with confirmed S-gene,2406,83.44849328,86.34701083
+West Midlands,11/12/2021,362,15.05,Cases with confirmed SGTF,2406,13.65298917,16.55150672
+West Midlands,12/12/2021,1831,77.95,Cases with confirmed S-gene,2349,76.20473904,79.59896873
+West Midlands,12/12/2021,518,22.05,Cases with confirmed SGTF,2349,20.40103127,23.79526096
+West Midlands,13/12/2021,1981,69.31,Cases with confirmed S-gene,2858,67.58065964,70.99536473
+West Midlands,13/12/2021,877,30.69,Cases with confirmed SGTF,2858,29.00463527,32.41934036
+West Midlands,14/12/2021,1840,54.7,Cases with confirmed S-gene,3364,52.99533675,56.38743311
+West Midlands,14/12/2021,1524,45.3,Cases with confirmed SGTF,3364,43.61256689,47.00466325
+West Midlands,15/12/2021,1717,43.75,Cases with confirmed S-gene,3925,42.18747514,45.3153024
+West Midlands,15/12/2021,2208,56.25,Cases with confirmed SGTF,3925,54.6846976,57.81252486
+West Midlands,16/12/2021,1425,39.64,Cases with confirmed S-gene,3595,38.03750701,41.26157887
+West Midlands,16/12/2021,2170,60.36,Cases with confirmed SGTF,3595,58.73842113,61.96249299
+West Midlands,17/12/2021,1603,37.97,Cases with confirmed S-gene,4222,36.50372744,39.45390053
+West Midlands,17/12/2021,2619,62.03,Cases with confirmed SGTF,4222,60.54609947,63.49627256
+West Midlands,18/12/2021,1300,32.57,Cases with confirmed S-gene,3991,31.12431313,34.05607052
+West Midlands,18/12/2021,2691,67.43,Cases with confirmed SGTF,3991,65.94392948,68.87568687
+West Midlands,19/12/2021,1088,28.1,Cases with confirmed S-gene,3872,26.69293827,29.54921765
+West Midlands,19/12/2021,2784,71.9,Cases with confirmed SGTF,3872,70.45078235,73.30706173
+West Midlands,20/12/2021,1271,22.28,Cases with confirmed S-gene,5704,21.21291465,23.38991383
+West Midlands,20/12/2021,4433,77.72,Cases with confirmed SGTF,5704,76.61008617,78.78708535
+West Midlands,21/12/2021,838,15.58,Cases with confirmed S-gene,5377,14.63096327,16.58844386
+West Midlands,21/12/2021,4539,84.42,Cases with confirmed SGTF,5377,83.41155614,85.36903673
+West Midlands,22/12/2021,773,12.17,Cases with confirmed S-gene,6352,11.3805457,13.00442213
+West Midlands,22/12/2021,5579,87.83,Cases with confirmed SGTF,6352,86.99557787,88.6194543
+West Midlands,23/12/2021,629,11.74,Cases with confirmed S-gene,5356,10.89990366,12.64320419
+West Midlands,23/12/2021,4727,88.26,Cases with confirmed SGTF,5356,87.35679581,89.10009634
+West Midlands,24/12/2021,607,11.78,Cases with confirmed S-gene,5151,10.92259058,12.70323396
+West Midlands,24/12/2021,4544,88.22,Cases with confirmed SGTF,5151,87.29676604,89.07740942
+West Midlands,25/12/2021,213,8.24,Cases with confirmed S-gene,2586,7.21979851,9.379667956
+West Midlands,25/12/2021,2373,91.76,Cases with confirmed SGTF,2586,90.62033204,92.78020149
+West Midlands,26/12/2021,332,7.28,Cases with confirmed S-gene,4558,6.554456819,8.086321687
+West Midlands,26/12/2021,4226,92.72,Cases with confirmed SGTF,4558,91.91367831,93.44554318
+West Midlands,27/12/2021,227,5.86,Cases with confirmed S-gene,3875,5.149324206,6.655760222
+West Midlands,27/12/2021,3648,94.14,Cases with confirmed SGTF,3875,93.34423978,94.85067579
+West Midlands,28/12/2021,165,4.03,Cases with confirmed S-gene,4091,3.460903519,4.693571868
+West Midlands,28/12/2021,3926,95.97,Cases with confirmed SGTF,4091,95.30642813,96.53909648
+Yorkshire and Humber,01/11/2021,3239,99.94,Cases with confirmed S-gene,3241,99.75143164,99.98931067
+Yorkshire and Humber,01/11/2021,2,0.06,Cases with confirmed SGTF,3241,0.010689333,0.248568361
+Yorkshire and Humber,02/11/2021,2641,99.85,Cases with confirmed S-gene,2645,99.58482044,99.95154416
+Yorkshire and Humber,02/11/2021,4,0.15,Cases with confirmed SGTF,2645,0.048455836,0.415179561
+Yorkshire and Humber,03/11/2021,2570,99.88,Cases with confirmed S-gene,2573,99.62908543,99.96988276
+Yorkshire and Humber,03/11/2021,3,0.12,Cases with confirmed SGTF,2573,0.030117236,0.370914569
+Yorkshire and Humber,04/11/2021,2297,99.87,Cases with confirmed S-gene,2300,99.58514428,99.96630734
+Yorkshire and Humber,04/11/2021,3,0.13,Cases with confirmed SGTF,2300,0.033692655,0.414855718
+Yorkshire and Humber,05/11/2021,2078,99.9,Cases with confirmed S-gene,2080,99.61297046,99.98334355
+Yorkshire and Humber,05/11/2021,2,0.1,Cases with confirmed SGTF,2080,0.016656452,0.387029539
+Yorkshire and Humber,06/11/2021,1782,100,Cases with confirmed S-gene,1782,99.73182698,100
+Yorkshire and Humber,07/11/2021,1778,100,Cases with confirmed S-gene,1778,99.73122498,100
+Yorkshire and Humber,08/11/2021,2707,99.93,Cases with confirmed S-gene,2709,99.70269366,99.9872113
+Yorkshire and Humber,08/11/2021,2,0.07,Cases with confirmed SGTF,2709,0.012788698,0.297306341
+Yorkshire and Humber,09/11/2021,2781,99.96,Cases with confirmed S-gene,2782,99.76687348,99.99812362
+Yorkshire and Humber,09/11/2021,1,0.04,Cases with confirmed SGTF,2782,0.001876382,0.233126523
+Yorkshire and Humber,10/11/2021,2648,100,Cases with confirmed S-gene,2648,99.81940164,100
+Yorkshire and Humber,11/11/2021,2594,100,Cases with confirmed S-gene,2594,99.8156477,100
+Yorkshire and Humber,12/11/2021,2562,99.96,Cases with confirmed S-gene,2563,99.74698507,99.99796328
+Yorkshire and Humber,12/11/2021,1,0.04,Cases with confirmed SGTF,2563,0.002036715,0.253014931
+Yorkshire and Humber,13/11/2021,2086,99.95,Cases with confirmed S-gene,2087,99.68938979,99.99749874
+Yorkshire and Humber,13/11/2021,1,0.05,Cases with confirmed SGTF,2087,0.002501256,0.310610209
+Yorkshire and Humber,14/11/2021,2154,100,Cases with confirmed S-gene,2154,99.77805763,100
+Yorkshire and Humber,15/11/2021,3261,100,Cases with confirmed S-gene,3261,99.85330998,100
+Yorkshire and Humber,16/11/2021,2875,99.97,Cases with confirmed S-gene,2876,99.77448231,99.99818495
+Yorkshire and Humber,16/11/2021,1,0.03,Cases with confirmed SGTF,2876,0.001815053,0.225517687
+Yorkshire and Humber,17/11/2021,2808,100,Cases with confirmed S-gene,2808,99.82967793,100
+Yorkshire and Humber,18/11/2021,2808,99.93,Cases with confirmed S-gene,2810,99.71336362,99.987671
+Yorkshire and Humber,18/11/2021,2,0.07,Cases with confirmed SGTF,2810,0.012328998,0.286636383
+Yorkshire and Humber,19/11/2021,2514,99.96,Cases with confirmed S-gene,2515,99.74216394,99.99792441
+Yorkshire and Humber,19/11/2021,1,0.04,Cases with confirmed SGTF,2515,0.002075587,0.257836064
+Yorkshire and Humber,20/11/2021,2032,99.95,Cases with confirmed S-gene,2033,99.68115588,99.99743231
+Yorkshire and Humber,20/11/2021,1,0.05,Cases with confirmed SGTF,2033,0.002567695,0.318844116
+Yorkshire and Humber,21/11/2021,1991,99.95,Cases with confirmed S-gene,1992,99.67460667,99.99737946
+Yorkshire and Humber,21/11/2021,1,0.05,Cases with confirmed SGTF,1992,0.002620545,0.325393326
+Yorkshire and Humber,22/11/2021,2923,99.9,Cases with confirmed S-gene,2926,99.67376572,99.97351669
+Yorkshire and Humber,22/11/2021,3,0.1,Cases with confirmed SGTF,2926,0.026483309,0.326234275
+Yorkshire and Humber,23/11/2021,2760,99.96,Cases with confirmed S-gene,2761,99.76510293,99.99810935
+Yorkshire and Humber,23/11/2021,1,0.04,Cases with confirmed SGTF,2761,0.001890654,0.234897067
+Yorkshire and Humber,24/11/2021,2632,99.89,Cases with confirmed S-gene,2635,99.63779816,99.97059152
+Yorkshire and Humber,24/11/2021,3,0.11,Cases with confirmed SGTF,2635,0.029408485,0.362201843
+Yorkshire and Humber,25/11/2021,2445,99.92,Cases with confirmed S-gene,2447,99.67091631,99.9858419
+Yorkshire and Humber,25/11/2021,2,0.08,Cases with confirmed SGTF,2447,0.014158104,0.329083689
+Yorkshire and Humber,26/11/2021,2203,99.95,Cases with confirmed S-gene,2204,99.70584832,99.99763153
+Yorkshire and Humber,26/11/2021,1,0.05,Cases with confirmed SGTF,2204,0.002368473,0.294151682
+Yorkshire and Humber,27/11/2021,1473,99.93,Cases with confirmed S-gene,1474,99.56056945,99.9964585
+Yorkshire and Humber,27/11/2021,1,0.07,Cases with confirmed SGTF,1474,0.003541496,0.439430549
+Yorkshire and Humber,28/11/2021,1863,99.95,Cases with confirmed S-gene,1864,99.65231062,99.9971995
+Yorkshire and Humber,28/11/2021,1,0.05,Cases with confirmed SGTF,1864,0.002800501,0.347689382
+Yorkshire and Humber,29/11/2021,3182,100,Cases with confirmed S-gene,3182,99.84967253,100
+Yorkshire and Humber,30/11/2021,3090,99.87,Cases with confirmed S-gene,3094,99.64498136,99.95857741
+Yorkshire and Humber,30/11/2021,4,0.13,Cases with confirmed SGTF,3094,0.041422593,0.355018639
+Yorkshire and Humber,01/12/2021,2904,99.83,Cases with confirmed S-gene,2909,99.57435351,99.93670377
+Yorkshire and Humber,01/12/2021,5,0.17,Cases with confirmed SGTF,2909,0.063296233,0.42564649
+Yorkshire and Humber,02/12/2021,2725,99.85,Cases with confirmed S-gene,2729,99.59757829,99.95303598
+Yorkshire and Humber,02/12/2021,4,0.15,Cases with confirmed SGTF,2729,0.046964015,0.402421706
+Yorkshire and Humber,03/12/2021,2369,99.79,Cases with confirmed S-gene,2374,99.47862365,99.92243481
+Yorkshire and Humber,03/12/2021,5,0.21,Cases with confirmed SGTF,2374,0.077565191,0.521376354
+Yorkshire and Humber,04/12/2021,1888,99.84,Cases with confirmed S-gene,1891,99.49562624,99.95901846
+Yorkshire and Humber,04/12/2021,3,0.16,Cases with confirmed SGTF,1891,0.040981535,0.504373761
+Yorkshire and Humber,05/12/2021,1936,99.33,Cases with confirmed S-gene,1949,98.82992523,99.62867508
+Yorkshire and Humber,05/12/2021,13,0.67,Cases with confirmed SGTF,1949,0.371324924,1.170074774
+Yorkshire and Humber,06/12/2021,2858,99.24,Cases with confirmed S-gene,2880,98.82523502,99.5088064
+Yorkshire and Humber,06/12/2021,22,0.76,Cases with confirmed SGTF,2880,0.491193598,1.174764982
+Yorkshire and Humber,07/12/2021,2574,97.69,Cases with confirmed S-gene,2635,97.01643042,98.21020324
+Yorkshire and Humber,07/12/2021,61,2.31,Cases with confirmed SGTF,2635,1.789796759,2.983569577
+Yorkshire and Humber,08/12/2021,2613,96.28,Cases with confirmed S-gene,2714,95.47843225,96.9444889
+Yorkshire and Humber,08/12/2021,101,3.72,Cases with confirmed SGTF,2714,3.055511095,4.521567747
+Yorkshire and Humber,09/12/2021,2513,94.65,Cases with confirmed S-gene,2655,93.70922092,95.46212746
+Yorkshire and Humber,09/12/2021,142,5.35,Cases with confirmed SGTF,2655,4.537872535,6.290779078
+Yorkshire and Humber,10/12/2021,2050,92.68,Cases with confirmed S-gene,2212,91.49096098,93.71061991
+Yorkshire and Humber,10/12/2021,162,7.32,Cases with confirmed SGTF,2212,6.289380086,8.509039022
+Yorkshire and Humber,11/12/2021,1840,88.8,Cases with confirmed S-gene,2072,87.347541,90.11247555
+Yorkshire and Humber,11/12/2021,232,11.2,Cases with confirmed SGTF,2072,9.887524452,12.652459
+Yorkshire and Humber,12/12/2021,1764,83.13,Cases with confirmed S-gene,2122,81.45178447,84.68496414
+Yorkshire and Humber,12/12/2021,358,16.87,Cases with confirmed SGTF,2122,15.31503586,18.54821553
+Yorkshire and Humber,13/12/2021,2437,73.89,Cases with confirmed S-gene,3298,72.35166162,75.37871755
+Yorkshire and Humber,13/12/2021,861,26.11,Cases with confirmed SGTF,3298,24.62128245,27.64833838
+Yorkshire and Humber,14/12/2021,2203,56.4,Cases with confirmed S-gene,3906,54.82691123,57.96122761
+Yorkshire and Humber,14/12/2021,1703,43.6,Cases with confirmed SGTF,3906,42.03877239,45.17308877
+Yorkshire and Humber,15/12/2021,2332,47.62,Cases with confirmed S-gene,4897,46.21439862,49.03134299
+Yorkshire and Humber,15/12/2021,2565,52.38,Cases with confirmed SGTF,4897,50.96865701,53.78560138
+Yorkshire and Humber,16/12/2021,1983,44.55,Cases with confirmed S-gene,4451,43.0857749,46.0272657
+Yorkshire and Humber,16/12/2021,2468,55.45,Cases with confirmed SGTF,4451,53.9727343,56.9142251
+Yorkshire and Humber,17/12/2021,1568,40.43,Cases with confirmed S-gene,3878,38.88601647,41.99950202
+Yorkshire and Humber,17/12/2021,2310,59.57,Cases with confirmed SGTF,3878,58.00049798,61.11398353
+Yorkshire and Humber,18/12/2021,1305,35.1,Cases with confirmed S-gene,3718,33.56816027,36.66189969
+Yorkshire and Humber,18/12/2021,2413,64.9,Cases with confirmed SGTF,3718,63.33810031,66.43183973
+Yorkshire and Humber,19/12/2021,1112,29.94,Cases with confirmed S-gene,3714,28.47588577,31.44747462
+Yorkshire and Humber,19/12/2021,2602,70.06,Cases with confirmed SGTF,3714,68.55252538,71.52411423
+Yorkshire and Humber,20/12/2021,1530,24.51,Cases with confirmed S-gene,6242,23.45226255,25.60207501
+Yorkshire and Humber,20/12/2021,4712,75.49,Cases with confirmed SGTF,6242,74.39792499,76.54773745
+Yorkshire and Humber,21/12/2021,1353,18.38,Cases with confirmed S-gene,7362,17.50334812,19.28620425
+Yorkshire and Humber,21/12/2021,6009,81.62,Cases with confirmed SGTF,7362,80.71379575,82.49665188
+Yorkshire and Humber,22/12/2021,1092,14.55,Cases with confirmed S-gene,7505,13.76418126,15.37299262
+Yorkshire and Humber,22/12/2021,6413,85.45,Cases with confirmed SGTF,7505,84.62700738,86.23581874
+Yorkshire and Humber,23/12/2021,987,12.91,Cases with confirmed S-gene,7644,12.17256386,13.68919399
+Yorkshire and Humber,23/12/2021,6657,87.09,Cases with confirmed SGTF,7644,86.31080601,87.82743614
+Yorkshire and Humber,24/12/2021,618,10.77,Cases with confirmed S-gene,5738,9.98585021,11.60781764
+Yorkshire and Humber,24/12/2021,5120,89.23,Cases with confirmed SGTF,5738,88.39218236,90.01414979
+Yorkshire and Humber,25/12/2021,315,8.4,Cases with confirmed S-gene,3750,7.541514091,9.344904416
+Yorkshire and Humber,25/12/2021,3435,91.6,Cases with confirmed SGTF,3750,90.65509558,92.45848591
+Yorkshire and Humber,26/12/2021,547,8.29,Cases with confirmed S-gene,6596,7.644109663,8.990803892
+Yorkshire and Humber,26/12/2021,6049,91.71,Cases with confirmed SGTF,6596,91.00919611,92.35589034
+Yorkshire and Humber,27/12/2021,664,6.53,Cases with confirmed S-gene,10175,6.057379329,7.027367493
+Yorkshire and Humber,27/12/2021,9511,93.47,Cases with confirmed SGTF,10175,92.97263251,93.94262067
+Yorkshire and Humber,28/12/2021,310,4.42,Cases with confirmed S-gene,7008,3.959803887,4.93790543
+Yorkshire and Humber,28/12/2021,6698,95.58,Cases with confirmed SGTF,7008,95.06209457,96.04019611
