@@ -27,7 +27,13 @@ Sr. Artificial Intelligence Engineer
 
 <img class="fit-picture"
      src="https://raw.githubusercontent.com/emirhanai/Omicron-Variant-RNN-ML-Gen-Prediction-2-Separate-Software--Artificial-Intelligence-in-Health/main/Omicron%20Variant%20RNN%20%26%20ML%20Gen%20Prediction.jpg"
-     alt="OMICRON VARIANT RNN &amp; ML GEN PREDICTION (2 Separate Software) - Artificial Intelligence in Health">
+     alt="OMICRON VARIANT RNN & ML GEN PREDICTION (2 Separate Software) - Artificial Intelligence in Health">
+     
+###TEST
+
+<img class="fit-picture"
+     src="https://github.com/emirhanai/Omicron-Variant-RNN-ML-Gen-Prediction-2-Separate-Software--Artificial-Intelligence-in-Health/blob/main/Test/ml%20prediction.jpg"
+     alt="OMICRON VARIANT RNN & ML GEN PREDICTION (2 Separate Software) - Artificial Intelligence in Health -TEST">
     
 
 ### **Developer Information:**
